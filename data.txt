@@ -1,0 +1,4256 @@
+1: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 28 
+    Final floor: 1
+
+2: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 13 
+    Final floor: 1
+
+3: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 3
+    Steps: 10 
+    Final floor: 1
+
+4: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 4
+    Steps: 12 
+    Final floor: 1
+
+5: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 5
+    Steps: 6 
+    Final floor: 1
+
+6: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 6
+    Steps: 8 
+    Final floor: 1
+
+7: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+8: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 7
+    Steps: 4 
+    Final floor: 1
+
+9: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 8
+    Steps: 7 
+    Final floor: 1
+
+10: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 9
+    Steps: 8 
+    Final floor: 1
+
+11: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 10
+    Steps: 11 
+    Final floor: 1
+
+12: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 31 
+    Final floor: 3
+
+13: Win
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 19 
+    Final floor: 3
+
+14: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 201 
+    Final floor: 3
+
+15: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+16: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 6
+    Steps: 39 
+    Final floor: 3
+
+17: Win
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 7
+    Steps: 17 
+    Final floor: 3
+
+18: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 8
+    Steps: 21 
+    Final floor: 3
+
+19: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 9
+    Steps: 13 
+    Final floor: 3
+
+20: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 10
+    Steps: 17 
+    Final floor: 3
+
+21: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 19 
+    Final floor: 3
+
+22: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+23: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+24: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 4
+    Steps: 13 
+    Final floor: 3
+
+25: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+26: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+27: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 23 
+    Final floor: 3
+
+28: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+29: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 5
+    Steps: 15 
+    Final floor: 3
+
+30: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+31: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 4
+    Steps: 21 
+    Final floor: 3
+
+32: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 6
+    Steps: 13 
+    Final floor: 3
+
+33: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 7
+    Steps: 13 
+    Final floor: 3
+
+34: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 5
+    Steps: 19 
+    Final floor: 3
+
+35: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 31 
+    Final floor: 3
+
+36: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 8
+    Steps: 13 
+    Final floor: 3
+
+37: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 6
+    Steps: 25 
+    Final floor: 3
+
+38: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 3
+    Steps: 15 
+    Final floor: 3
+
+39: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 7
+    Steps: 15 
+    Final floor: 3
+
+40: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 9
+    Steps: 13 
+    Final floor: 3
+
+41: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 8
+    Steps: 5 
+    Final floor: 2
+
+42: Quit
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 4
+    Steps: 19 
+    Final floor: 3
+
+43: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 9
+    Steps: 25 
+    Final floor: 3
+
+44: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 10
+    Steps: 15 
+    Final floor: 3
+
+45: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 10
+    Steps: 15 
+    Final floor: 3
+
+46: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 5
+    Steps: 33 
+    Final floor: 3
+
+47: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+48: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+49: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 25 
+    Final floor: 3
+
+50: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+51: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+52: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 23 
+    Final floor: 3
+
+53: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+54: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 25 
+    Final floor: 3
+
+55: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 29 
+    Final floor: 3
+
+56: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 6
+    Steps: 19 
+    Final floor: 3
+
+57: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+58: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+59: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 21 
+    Final floor: 3
+
+60: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 21 
+    Final floor: 3
+
+61: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 25 
+    Final floor: 3
+
+62: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 19 
+    Final floor: 3
+
+63: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 6
+    Steps: 21 
+    Final floor: 3
+
+64: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 7
+    Steps: 29 
+    Final floor: 3
+
+65: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 19 
+    Final floor: 3
+
+66: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 8
+    Steps: 21 
+    Final floor: 3
+
+67: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 51 
+    Final floor: 3
+
+68: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 9
+    Steps: 17 
+    Final floor: 3
+
+69: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 7
+    Steps: 15 
+    Final floor: 3
+
+70: Quit
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 0 
+    Final floor: 1
+
+71: Quit
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 0 
+    Final floor: 1
+
+72: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 10
+    Steps: 21 
+    Final floor: 3
+
+73: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 8
+    Steps: 19 
+    Final floor: 3
+
+74: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 9
+    Steps: 13 
+    Final floor: 3
+
+75: Quit
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 1 
+    Final floor: 1
+
+76: Quit
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 0 
+    Final floor: 1
+
+77: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 19 
+    Final floor: 3
+
+78: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+79: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+80: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 15 
+    Final floor: 3
+
+81: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 27 
+    Final floor: 3
+
+82: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 4
+    Steps: 13 
+    Final floor: 3
+
+83: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+84: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 3
+    Steps: 29 
+    Final floor: 3
+
+85: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 6
+    Steps: 13 
+    Final floor: 3
+
+86: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+87: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 5
+    Steps: 23 
+    Final floor: 3
+
+88: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 7
+    Steps: 9 
+    Final floor: 2
+
+89: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 6
+    Steps: 25 
+    Final floor: 3
+
+90: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 7
+    Steps: 23 
+    Final floor: 3
+
+91: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 8
+    Steps: 13 
+    Final floor: 3
+
+92: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 3
+    Steps: 43 
+    Final floor: 3
+
+93: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 8
+    Steps: 23 
+    Final floor: 3
+
+94: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 9
+    Steps: 13 
+    Final floor: 3
+
+95: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 9
+    Steps: 33 
+    Final floor: 3
+
+96: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 10
+    Steps: 13 
+    Final floor: 3
+
+97: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 10
+    Steps: 23 
+    Final floor: 3
+
+98: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 9 
+    Final floor: 1
+
+99: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 7 
+    Final floor: 1
+
+100: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 9 
+    Final floor: 1
+
+101: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 9 
+    Final floor: 1
+
+102: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 10
+    Steps: 21 
+    Final floor: 3
+
+103: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 5
+    Steps: 9 
+    Final floor: 1
+
+104: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 6
+    Steps: 9 
+    Final floor: 1
+
+105: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 7
+    Steps: 9 
+    Final floor: 1
+
+106: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 8
+    Steps: 10 
+    Final floor: 1
+
+107: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 9
+    Steps: 9 
+    Final floor: 1
+
+108: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 10
+    Steps: 7 
+    Final floor: 1
+
+109: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 4
+    Steps: 51 
+    Final floor: 3
+
+110: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 39 
+    Final floor: 3
+
+111: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 51 
+    Final floor: 2
+
+112: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 51 
+    Final floor: 1
+
+113: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 4
+    Steps: 51 
+    Final floor: 1
+
+114: Quit
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 5
+    Steps: 34 
+    Final floor: 3
+
+115: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 5
+    Steps: 51 
+    Final floor: 1
+
+116: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 6
+    Steps: 50 
+    Final floor: 1
+
+117: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 7
+    Steps: 48 
+    Final floor: 1
+
+118: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 6
+    Steps: 51 
+    Final floor: 3
+
+119: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 8
+    Steps: 16 
+    Final floor: 1
+
+120: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 9
+    Steps: 14 
+    Final floor: 1
+
+121: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 10
+    Steps: 15 
+    Final floor: 1
+
+122: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 7
+    Steps: 19 
+    Final floor: 3
+
+123: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 8
+    Steps: 15 
+    Final floor: 3
+
+124: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 9
+    Steps: 25 
+    Final floor: 3
+
+125: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 10
+    Steps: 51 
+    Final floor: 3
+
+126: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 15 
+    Final floor: 3
+
+127: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 7 
+    Final floor: 2
+
+128: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 51 
+    Final floor: 3
+
+129: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 49 
+    Final floor: 2
+
+130: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 2
+    Steps: 27 
+    Final floor: 3
+
+131: Quit
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 2
+    Steps: 32 
+    Final floor: 2
+
+132: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 3
+    Steps: 51 
+    Final floor: 2
+
+133: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 3
+    Steps: 51 
+    Final floor: 3
+
+134: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 4
+    Steps: 19 
+    Final floor: 3
+
+135: Die
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 51 
+    Final floor: 2
+
+136: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 23 
+    Final floor: 3
+
+137: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 4
+    Steps: 23 
+    Final floor: 3
+
+138: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 23 
+    Final floor: 3
+
+139: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 3
+    Steps: 25 
+    Final floor: 3
+
+140: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 5
+    Steps: 25 
+    Final floor: 3
+
+141: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 4
+    Steps: 31 
+    Final floor: 3
+
+142: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 5
+    Steps: 19 
+    Final floor: 3
+
+143: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 6
+    Steps: 21 
+    Final floor: 3
+
+144: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 6
+    Steps: 51 
+    Final floor: 1
+
+145: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 7
+    Steps: 31 
+    Final floor: 3
+
+146: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 7
+    Steps: 51 
+    Final floor: 3
+
+147: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 8
+    Steps: 23 
+    Final floor: 3
+
+148: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 8
+    Steps: 33 
+    Final floor: 3
+
+149: Die
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 21 
+    Final floor: 3
+
+150: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 9
+    Steps: 23 
+    Final floor: 3
+
+151: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 9
+    Steps: 37 
+    Final floor: 3
+
+152: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 10
+    Steps: 49 
+    Final floor: 3
+
+153: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 10
+    Steps: 21 
+    Final floor: 3
+
+154: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 22 
+    Final floor: 2
+
+155: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+156: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 20 
+    Final floor: 2
+
+157: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 7 
+    Final floor: 1
+
+158: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+159: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 7 
+    Final floor: 1
+
+160: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 7 
+    Final floor: 1
+
+161: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+162: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 6
+    Steps: 9 
+    Final floor: 1
+
+163: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 7
+    Steps: 11 
+    Final floor: 1
+
+164: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 8
+    Steps: 5 
+    Final floor: 1
+
+165: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 29 
+    Final floor: 3
+
+166: Win
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 21 
+    Final floor: 3
+
+167: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 9
+    Steps: 11 
+    Final floor: 1
+
+168: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 10
+    Steps: 5 
+    Final floor: 1
+
+169: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 33 
+    Final floor: 3
+
+170: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+171: Quit
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 47 
+    Final floor: 3
+
+172: Win
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 19 
+    Final floor: 3
+
+173: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 21 
+    Final floor: 3
+
+174: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 19 
+    Final floor: 3
+
+175: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 19 
+    Final floor: 3
+
+176: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+177: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 19 
+    Final floor: 3
+
+178: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 35 
+    Final floor: 3
+
+179: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 6
+    Steps: 17 
+    Final floor: 3
+
+180: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 7
+    Steps: 17 
+    Final floor: 3
+
+181: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 8
+    Steps: 13 
+    Final floor: 3
+
+182: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 9
+    Steps: 17 
+    Final floor: 3
+
+183: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 10
+    Steps: 17 
+    Final floor: 3
+
+184: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 25 
+    Final floor: 3
+
+185: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 15 
+    Final floor: 3
+
+186: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 29 
+    Final floor: 3
+
+187: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 17 
+    Final floor: 3
+
+188: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 15 
+    Final floor: 1
+
+189: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 6
+    Steps: 29 
+    Final floor: 3
+
+190: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+191: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+192: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 13 
+    Final floor: 1
+
+193: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+194: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 13 
+    Final floor: 1
+
+195: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+196: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 5
+    Steps: 17 
+    Final floor: 3
+
+197: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 6
+    Steps: 13 
+    Final floor: 3
+
+198: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 16 
+    Final floor: 2
+
+199: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 7
+    Steps: 17 
+    Final floor: 3
+
+200: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 5
+    Steps: 7 
+    Final floor: 1
+
+201: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 8
+    Steps: 17 
+    Final floor: 3
+
+202: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 6
+    Steps: 11 
+    Final floor: 1
+
+203: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 9
+    Steps: 17 
+    Final floor: 3
+
+204: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 10
+    Steps: 13 
+    Final floor: 3
+
+205: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 7
+    Steps: 5 
+    Final floor: 1
+
+206: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 7
+    Steps: 29 
+    Final floor: 3
+
+207: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 8
+    Steps: 5 
+    Final floor: 1
+
+208: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 9
+    Steps: 5 
+    Final floor: 1
+
+209: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 10
+    Steps: 3 
+    Final floor: 1
+
+210: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+211: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 21 
+    Final floor: 3
+
+212: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 27 
+    Final floor: 3
+
+213: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 4
+    Steps: 23 
+    Final floor: 3
+
+214: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 19 
+    Final floor: 3
+
+215: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 5
+    Steps: 23 
+    Final floor: 3
+
+216: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 8
+    Steps: 23 
+    Final floor: 3
+
+217: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 6
+    Steps: 21 
+    Final floor: 3
+
+218: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 7
+    Steps: 23 
+    Final floor: 3
+
+219: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 8
+    Steps: 17 
+    Final floor: 3
+
+220: Quit
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 41 
+    Final floor: 3
+
+221: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 9
+    Steps: 19 
+    Final floor: 3
+
+222: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 10
+    Steps: 17 
+    Final floor: 3
+
+223: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 19 
+    Final floor: 3
+
+224: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+225: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+226: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+227: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+228: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 3
+    Steps: 21 
+    Final floor: 3
+
+229: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 21 
+    Final floor: 3
+
+230: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 4
+    Steps: 21 
+    Final floor: 3
+
+231: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 5
+    Steps: 27 
+    Final floor: 3
+
+232: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 6
+    Steps: 19 
+    Final floor: 3
+
+233: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 7
+    Steps: 21 
+    Final floor: 3
+
+234: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 25 
+    Final floor: 3
+
+235: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 8
+    Steps: 23 
+    Final floor: 3
+
+236: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 9
+    Steps: 25 
+    Final floor: 3
+
+237: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 10
+    Steps: 19 
+    Final floor: 3
+
+238: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 23 
+    Final floor: 3
+
+239: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 51 
+    Final floor: 3
+
+240: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+241: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+242: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 51 
+    Final floor: 3
+
+243: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 21 
+    Final floor: 3
+
+244: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 5
+    Steps: 31 
+    Final floor: 3
+
+245: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 6
+    Steps: 25 
+    Final floor: 3
+
+246: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 15 
+    Final floor: 3
+
+247: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+248: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 6
+    Steps: 17 
+    Final floor: 3
+
+249: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+250: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 13 
+    Final floor: 3
+
+251: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+252: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 7
+    Steps: 23 
+    Final floor: 3
+
+253: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 51 
+    Final floor: 3
+
+254: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 6
+    Steps: 17 
+    Final floor: 3
+
+255: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 7
+    Steps: 17 
+    Final floor: 3
+
+256: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+257: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 8
+    Steps: 21 
+    Final floor: 3
+
+258: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 2
+    Steps: 27 
+    Final floor: 3
+
+259: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 8
+    Steps: 17 
+    Final floor: 3
+
+260: Win
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+261: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 3
+    Steps: 35 
+    Final floor: 3
+
+262: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 9
+    Steps: 13 
+    Final floor: 3
+
+263: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 4
+    Steps: 29 
+    Final floor: 3
+
+264: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 5
+    Steps: 23 
+    Final floor: 3
+
+265: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 10
+    Steps: 17 
+    Final floor: 3
+
+266: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 6
+    Steps: 29 
+    Final floor: 3
+
+267: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 7
+    Steps: 31 
+    Final floor: 3
+
+268: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 9
+    Steps: 27 
+    Final floor: 3
+
+269: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+270: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 8
+    Steps: 33 
+    Final floor: 3
+
+271: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 9
+    Steps: 29 
+    Final floor: 3
+
+272: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 10
+    Steps: 33 
+    Final floor: 3
+
+273: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 10
+    Steps: 27 
+    Final floor: 3
+
+274: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 31 
+    Final floor: 3
+
+275: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 2
+    Steps: 29 
+    Final floor: 3
+
+276: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 15 
+    Final floor: 3
+
+277: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 3
+    Steps: 35 
+    Final floor: 3
+
+278: Quit
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 14 
+    Final floor: 3
+
+279: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+280: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 5
+    Steps: 27 
+    Final floor: 3
+
+281: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 6
+    Steps: 23 
+    Final floor: 3
+
+282: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 7
+    Steps: 19 
+    Final floor: 3
+
+283: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 8
+    Steps: 29 
+    Final floor: 3
+
+284: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 9
+    Steps: 29 
+    Final floor: 3
+
+285: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 10
+    Steps: 29 
+    Final floor: 3
+
+286: Quit
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 18 
+    Final floor: 3
+
+287: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 29 
+    Final floor: 3
+
+288: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+289: Quit
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 27 
+    Final floor: 1
+
+290: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+291: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+292: Quit
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 25 
+    Final floor: 3
+
+293: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+294: Quit
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 25 
+    Final floor: 3
+
+295: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+296: Win
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 4
+    Steps: 19 
+    Final floor: 3
+
+297: Quit
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 25 
+    Final floor: 3
+
+298: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 25 
+    Final floor: 1
+
+299: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 5 
+    Final floor: 1
+
+300: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 29 
+    Final floor: 3
+
+301: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 3
+    Steps: 14 
+    Final floor: 1
+
+302: Quit
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 4
+    Steps: 25 
+    Final floor: 3
+
+303: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 37 
+    Final floor: 3
+
+304: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 4
+    Steps: 13 
+    Final floor: 1
+
+305: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 3
+    Steps: 39 
+    Final floor: 3
+
+306: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 5
+    Steps: 13 
+    Final floor: 1
+
+307: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 4
+    Steps: 29 
+    Final floor: 3
+
+308: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 6
+    Steps: 9 
+    Final floor: 1
+
+309: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 7
+    Steps: 9 
+    Final floor: 1
+
+310: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 5
+    Steps: 27 
+    Final floor: 3
+
+311: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 8
+    Steps: 15 
+    Final floor: 1
+
+312: Quit
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 31 
+    Final floor: 3
+
+313: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 9
+    Steps: 9 
+    Final floor: 1
+
+314: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 5
+    Steps: 25 
+    Final floor: 3
+
+315: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 10
+    Steps: 9 
+    Final floor: 1
+
+316: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 29 
+    Final floor: 3
+
+317: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 37 
+    Final floor: 3
+
+318: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 3
+    Steps: 33 
+    Final floor: 3
+
+319: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 3
+    Steps: 27 
+    Final floor: 3
+
+320: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 6
+    Steps: 21 
+    Final floor: 3
+
+321: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 4
+    Steps: 33 
+    Final floor: 3
+
+322: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 21 
+    Final floor: 3
+
+323: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+324: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 7
+    Steps: 29 
+    Final floor: 3
+
+325: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+326: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 19 
+    Final floor: 3
+
+327: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+328: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+329: Quit
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 8
+    Steps: 17 
+    Final floor: 3
+
+330: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+331: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 4
+    Steps: 13 
+    Final floor: 3
+
+332: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+333: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 4
+    Steps: 13 
+    Final floor: 3
+
+334: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 6
+    Steps: 17 
+    Final floor: 3
+
+335: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 33 
+    Final floor: 3
+
+336: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+337: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 7
+    Steps: 13 
+    Final floor: 3
+
+338: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 8
+    Steps: 13 
+    Final floor: 3
+
+339: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 5
+    Steps: 15 
+    Final floor: 3
+
+340: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 9
+    Steps: 13 
+    Final floor: 3
+
+341: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 31 
+    Final floor: 3
+
+342: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+343: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 10
+    Steps: 13 
+    Final floor: 3
+
+344: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+345: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 4
+    Steps: 13 
+    Final floor: 3
+
+346: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 33 
+    Final floor: 3
+
+347: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 13 
+    Final floor: 1
+
+348: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+349: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 2
+    Steps: 9 
+    Final floor: 1
+
+350: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 3
+    Steps: 6 
+    Final floor: 1
+
+351: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 6
+    Steps: 13 
+    Final floor: 3
+
+352: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+353: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 4
+    Steps: 4 
+    Final floor: 1
+
+354: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+355: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 5
+    Steps: 5 
+    Final floor: 1
+
+356: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 7
+    Steps: 17 
+    Final floor: 3
+
+357: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 6
+    Steps: 10 
+    Final floor: 1
+
+358: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 2
+    Steps: 25 
+    Final floor: 3
+
+359: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 7
+    Steps: 6 
+    Final floor: 1
+
+360: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 8
+    Steps: 13 
+    Final floor: 3
+
+361: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 8
+    Steps: 5 
+    Final floor: 1
+
+362: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 3
+    Steps: 23 
+    Final floor: 3
+
+363: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 3
+    Steps: 19 
+    Final floor: 3
+
+364: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 9
+    Steps: 8 
+    Final floor: 1
+
+365: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 10
+    Steps: 3 
+    Final floor: 1
+
+366: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 4
+    Steps: 15 
+    Final floor: 3
+
+367: Win
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 9
+    Steps: 17 
+    Final floor: 3
+
+368: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 21 
+    Final floor: 3
+
+369: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 5
+    Steps: 15 
+    Final floor: 3
+
+370: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 10
+    Steps: 13 
+    Final floor: 3
+
+371: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 4
+    Steps: 51 
+    Final floor: 1
+
+372: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 51 
+    Final floor: 1
+
+373: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 6
+    Steps: 13 
+    Final floor: 3
+
+374: Quit
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 26 
+    Final floor: 3
+
+375: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 4
+    Steps: 33 
+    Final floor: 3
+
+376: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 7
+    Steps: 6 
+    Final floor: 2
+
+377: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+378: Quit
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 43 
+    Final floor: 2
+
+379: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+380: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 51 
+    Final floor: 1
+
+381: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 8
+    Steps: 15 
+    Final floor: 3
+
+382: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 2
+    Steps: 25 
+    Final floor: 3
+
+383: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 3
+    Steps: 39 
+    Final floor: 1
+
+384: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 9
+    Steps: 13 
+    Final floor: 3
+
+385: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 4
+    Steps: 21 
+    Final floor: 2
+
+386: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 5
+    Steps: 1 
+    Final floor: 1
+
+387: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 10
+    Steps: 13 
+    Final floor: 3
+
+388: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 5
+    Steps: 27 
+    Final floor: 3
+
+389: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 6
+    Steps: 35 
+    Final floor: 1
+
+390: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 3
+    Steps: 29 
+    Final floor: 3
+
+391: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 7
+    Steps: 21 
+    Final floor: 1
+
+392: Quit
+    Model: o3-mini-2025-01-31
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 25 
+    Final floor: 3
+
+393: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 8
+    Steps: 15 
+    Final floor: 1
+
+394: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 9
+    Steps: 17 
+    Final floor: 1
+
+395: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 10
+    Steps: 7 
+    Final floor: 1
+
+396: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 31 
+    Final floor: 3
+
+397: Die
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 51 
+    Final floor: 1
+
+398: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 4
+    Steps: 27 
+    Final floor: 3
+
+399: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+400: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 23 
+    Final floor: 3
+
+401: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 2
+    Steps: 9 
+    Final floor: 2
+
+402: Die
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 1
+    Steps: 27 
+    Final floor: 3
+
+403: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+404: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+405: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+406: Win
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 6
+    Steps: 29 
+    Final floor: 3
+
+407: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 4
+    Steps: 7 
+    Final floor: 2
+
+408: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+409: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 2
+    Steps: 48 
+    Final floor: 2
+
+410: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 3
+    Steps: 15 
+    Final floor: 3
+
+411: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 4
+    Steps: 13 
+    Final floor: 3
+
+412: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+413: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 3
+    Steps: 7 
+    Final floor: 1
+
+414: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 6
+    Steps: 6 
+    Final floor: 2
+
+415: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 4
+    Steps: 11 
+    Final floor: 1
+
+416: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 5
+    Steps: 23 
+    Final floor: 3
+
+417: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 5
+    Steps: 6 
+    Final floor: 1
+
+418: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+419: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 7
+    Steps: 13 
+    Final floor: 3
+
+420: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+421: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 6
+    Steps: 15 
+    Final floor: 1
+
+422: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 8
+    Steps: 13 
+    Final floor: 3
+
+423: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+424: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 25 
+    Final floor: 3
+
+425: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 7
+    Steps: 4 
+    Final floor: 1
+
+426: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 8
+    Steps: 9 
+    Final floor: 1
+
+427: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 9
+    Steps: 7 
+    Final floor: 2
+
+428: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+429: Die
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: False
+    Difficulty: Normal
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+430: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 9
+    Steps: 9 
+    Final floor: 1
+
+431: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 6
+    Steps: 19 
+    Final floor: 3
+
+432: Die
+    Model: gemini-2.5-flash-lite-preview-06-17
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 10
+    Steps: 9 
+    Final floor: 2
+
+433: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 10
+    Steps: 9 
+    Final floor: 1
+
+434: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 2
+    Steps: 21 
+    Final floor: 3
+
+435: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+436: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 7
+    Steps: 19 
+    Final floor: 3
+
+437: Quit
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 29 
+    Final floor: 1
+
+438: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 3
+    Steps: 25 
+    Final floor: 3
+
+439: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 7
+    Steps: 13 
+    Final floor: 3
+
+440: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 29 
+    Final floor: 3
+
+441: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 4
+    Steps: 19 
+    Final floor: 3
+
+442: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 31 
+    Final floor: 3
+
+443: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+444: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 15 
+    Final floor: 3
+
+445: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 5
+    Steps: 19 
+    Final floor: 3
+
+446: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 21 
+    Final floor: 3
+
+447: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 27 
+    Final floor: 3
+
+448: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 3
+    Steps: 19 
+    Final floor: 3
+
+449: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 5
+    Steps: 51 
+    Final floor: 2
+
+450: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+451: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 4
+    Steps: 23 
+    Final floor: 3
+
+452: Die
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: False
+    Difficulty: Hard
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+453: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 5
+    Steps: 23 
+    Final floor: 3
+
+454: Win
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 6
+    Steps: 27 
+    Final floor: 3
+
+455: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+456: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 7
+    Steps: 19 
+    Final floor: 3
+
+457: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 8
+    Steps: 33 
+    Final floor: 3
+
+458: Die
+    Model: gemini-2.5-pro
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 8
+    Steps: 29 
+    Final floor: 3
+
+459: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 9
+    Steps: 23 
+    Final floor: 3
+
+460: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 6
+    Steps: 51 
+    Final floor: 3
+
+461: Die
+    Model: o3-mini-2025-01-31
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+462: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 10
+    Steps: 15 
+    Final floor: 3
+
+463: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 7
+    Steps: 27 
+    Final floor: 3
+
+464: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 8
+    Steps: 17 
+    Final floor: 3
+
+465: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 9
+    Steps: 35 
+    Final floor: 3
+
+466: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 10
+    Steps: 37 
+    Final floor: 3
+
+467: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 43 
+    Final floor: 3
+
+468: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 19 
+    Final floor: 3
+
+469: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 19 
+    Final floor: 3
+
+470: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+471: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 21 
+    Final floor: 3
+
+472: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 51 
+    Final floor: 3
+
+473: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 25 
+    Final floor: 3
+
+474: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 13 
+    Final floor: 3
+
+475: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 6
+    Steps: 21 
+    Final floor: 3
+
+476: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 7
+    Steps: 19 
+    Final floor: 3
+
+477: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 8
+    Steps: 17 
+    Final floor: 3
+
+478: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 9
+    Steps: 17 
+    Final floor: 3
+
+479: Quit
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 2
+    Steps: 15 
+    Final floor: 3
+
+480: Win
+    Model: Human
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 10
+    Steps: 17 
+    Final floor: 3
+
+481: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+482: Quit
+    Model: gpt-4o-mini-2024-07-18
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 39 
+    Final floor: 3
+
+483: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 3
+    Steps: 19 
+    Final floor: 3
+
+484: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+485: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 19 
+    Final floor: 3
+
+486: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 5
+    Steps: 25 
+    Final floor: 3
+
+487: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 1
+    Steps: 33 
+    Final floor: 3
+
+488: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 2
+    Steps: 29 
+    Final floor: 3
+
+489: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 3
+    Steps: 31 
+    Final floor: 3
+
+490: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 4
+    Steps: 21 
+    Final floor: 3
+
+491: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 5
+    Steps: 51 
+    Final floor: 2
+
+492: Die
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 5
+    Steps: 27 
+    Final floor: 3
+
+493: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 6
+    Steps: 17 
+    Final floor: 3
+
+494: Win
+    Model: Human
+    Show battle data: False
+    Difficulty: Insane
+    Game index: 6
+    Steps: 29 
+    Final floor: 3
+
+495: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 7
+    Steps: 25 
+    Final floor: 3
+
+496: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 6
+    Steps: 25 
+    Final floor: 3
+
+497: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Hard
+    Game index: 8
+    Steps: 25 
+    Final floor: 3
+
+498: Win
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 7
+    Steps: 25 
+    Final floor: 3
+
+499: Quit
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 8
+    Steps: 36 
+    Final floor: 3
+
+500: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 9
+    Steps: 51 
+    Final floor: 3
+
+501: Die
+    Model: qwen3:30b
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 10
+    Steps: 15 
+    Final floor: 3
+
+502: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+503: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 13 
+    Final floor: 3
+
+504: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+505: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+506: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 25 
+    Final floor: 3
+
+507: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 17 
+    Final floor: 3
+
+508: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 1
+    Steps: 31 
+    Final floor: 3
+
+509: Die
+    Model: Human
+    Show battle data: True
+    Difficulty: Insane
+    Game index: 1
+    Steps: 21 
+    Final floor: 3
+
+510: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 27 
+    Final floor: 3
+
+511: Die
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 2
+    Steps: 19 
+    Final floor: 3
+
+512: Die
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 1
+    Steps: 13 
+    Final floor: 3
+
+513: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 17 
+    Final floor: 3
+
+514: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+515: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 17 
+    Final floor: 3
+
+516: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 3
+    Steps: 29 
+    Final floor: 3
+
+517: Die
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 13 
+    Final floor: 3
+
+518: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 3
+    Steps: 17 
+    Final floor: 3
+
+519: Win
+    Model: gemini-2.5-pro
+    Show battle data: True
+    Difficulty: Normal
+    Game index: 4
+    Steps: 27 
+    Final floor: 3
+
+520: Die
+    Model: qwen3:30b
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 45 
+    Final floor: 3
+
+521: Win
+    Model: gemini-2.5-flash
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+522: Win
+    Model: gemini-2.5-flash
+    Show battle data: False
+    Difficulty: Easy
+    Game index: 4
+    Steps: 17 
+    Final floor: 3
+
+523: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 1
+    Steps: 19 
+    Final floor: 1
+
+524: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 2
+    Steps: 13 
+    Final floor: 1
+
+525: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 3
+    Steps: 12 
+    Final floor: 1
+
+526: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 4
+    Steps: 7 
+    Final floor: 1
+
+527: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 5
+    Steps: 9 
+    Final floor: 1
+
+528: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 6
+    Steps: 11 
+    Final floor: 1
+
+529: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 7
+    Steps: 7 
+    Final floor: 1
+
+530: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 8
+    Steps: 4 
+    Final floor: 1
+
+531: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 9
+    Steps: 5 
+    Final floor: 1
+
+532: Quit
+    Model: gemini-2.0-flash-lite
+    Show battle data: True
+    Difficulty: Easy
+    Game index: 10
+    Steps: 7 
+    Final floor: 1
+

@@ -1,0 +1,2322 @@
+Difficulty Insane, Game 1, Steps 1, Turn 5, Win Rate: 0.999, Choice: c
+  Player: HP 85.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 58.0/58, Attack 8.0, Defense 1.0, Attack Speed 1.2
+Difficulty Insane, Game 1, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 79.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 31.0/58, Attack 8.0, Defense 1.0, Attack Speed 1.2
+Difficulty Insane, Game 1, Steps 1, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 73.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 4.0/58, Attack 8.0, Defense 1.0, Attack Speed 1.2
+Difficulty Insane, Game 1, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 115.0/115, Attack 10.0, Defense 6.3, Attack Speed 1.2
+  Monster: HP 28.0/60, Attack 6.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 1, Steps 6, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 115.0/115, Attack 10.0, Defense 6.3, Attack Speed 1.2
+  Monster: HP 12.0/60, Attack 6.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 1, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 115.0/115, Attack 10.0, Defense 6.3, Attack Speed 1.5
+  Monster: HP 10.0/37, Attack 4.0, Defense 1.0, Attack Speed 1.4
+Difficulty Insane, Game 1, Steps 17, Turn 5, Win Rate: 0.000, Choice: c
+  Player: HP 89.1/177.6, Attack 11.5, Defense 6.3, Attack Speed 1.9
+  Monster: HP 254.0/254, Attack 24.0, Defense 8.0, Attack Speed 4.7
+Difficulty Insane, Game 1, Steps 17, Turn 10, Win Rate: 0.000, Choice: r
+  Player: HP 0.6/177.6, Attack 11.5, Defense 6.3, Attack Speed 1.9
+  Monster: HP 254.0/254, Attack 24.0, Defense 8.0, Attack Speed 4.7
+Difficulty Insane, Game 2, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 94.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 58.0/76, Attack 7.0, Defense 1.0, Attack Speed 1.7
+Difficulty Insane, Game 2, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 49.0/76, Attack 7.0, Defense 1.0, Attack Speed 1.7
+Difficulty Insane, Game 2, Steps 1, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 82.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 22.0/76, Attack 7.0, Defense 1.0, Attack Speed 1.7
+Difficulty Insane, Game 2, Steps 1, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 72.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 22.0/76, Attack 7.0, Defense 1.0, Attack Speed 1.7
+Difficulty Insane, Game 2, Steps 1, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 66.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 4.0/76, Attack 7.0, Defense 1.0, Attack Speed 1.7
+Difficulty Insane, Game 2, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 135.0/135, Attack 12.0, Defense 5.0, Attack Speed 1.6
+  Monster: HP 3.0/33, Attack 4.0, Defense 2.0, Attack Speed 1.2
+Difficulty Insane, Game 2, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 133.0/135, Attack 15.5, Defense 5.0, Attack Speed 1.6
+  Monster: HP 2.5/40, Attack 6.0, Defense 3.0, Attack Speed 2.2
+Difficulty Insane, Game 2, Steps 23, Turn 5, Win Rate: 0.217, Choice: c
+  Player: HP 110.0/156, Attack 39.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 143.0/254, Attack 28.0, Defense 2.0, Attack Speed 4.8
+Difficulty Insane, Game 2, Steps 23, Turn 10, Win Rate: 0.030, Choice: c
+  Player: HP 18.0/156, Attack 39.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 106.0/254, Attack 28.0, Defense 2.0, Attack Speed 4.8
+Difficulty Insane, Game 3, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 37.0/69, Attack 3.0, Defense 2.0, Attack Speed 1.5
+Difficulty Insane, Game 3, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 29.0/69, Attack 3.0, Defense 2.0, Attack Speed 1.5
+Difficulty Insane, Game 3, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 190.0/193, Attack 13.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 26.0/74, Attack 8.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 3, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 181.0/193, Attack 13.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 2.0/74, Attack 8.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 3, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 234.0/234, Attack 13.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 51.0/75, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Insane, Game 3, Steps 5, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 234.0/234, Attack 13.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 15.0/75, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Insane, Game 3, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 338.0/356, Attack 16.6, Defense 5.0, Attack Speed 2.2
+  Monster: HP 57.8/89, Attack 11.0, Defense 1.0, Attack Speed 2.6
+Difficulty Insane, Game 3, Steps 17, Turn 5, Win Rate: 0.035, Choice: c
+  Player: HP 286.0/356, Attack 16.6, Defense 5.0, Attack Speed 2.8
+  Monster: HP 136.2/174, Attack 28.0, Defense 4.0, Attack Speed 7.2
+Difficulty Insane, Game 3, Steps 17, Turn 10, Win Rate: 0.103, Choice: c
+  Player: HP 240.0/356, Attack 16.6, Defense 5.0, Attack Speed 2.8
+  Monster: HP 98.4/174, Attack 28.0, Defense 4.0, Attack Speed 7.2
+Difficulty Insane, Game 3, Steps 17, Turn 15, Win Rate: 0.012, Choice: c
+  Player: HP 125.0/356, Attack 16.6, Defense 5.0, Attack Speed 2.8
+  Monster: HP 98.4/174, Attack 28.0, Defense 4.0, Attack Speed 7.2
+Difficulty Insane, Game 3, Steps 17, Turn 20, Win Rate: 0.000, Choice: c
+  Player: HP 10.0/356, Attack 16.6, Defense 5.0, Attack Speed 2.8
+  Monster: HP 98.4/174, Attack 28.0, Defense 4.0, Attack Speed 7.2
+Difficulty Insane, Game 4, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 88.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 43.0/52, Attack 8.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 4, Steps 0, Turn 10, Win Rate: 0.997, Choice: c
+  Player: HP 73.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 43.0/52, Attack 8.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 4, Steps 0, Turn 15, Win Rate: 0.995, Choice: c
+  Player: HP 61.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 34.0/52, Attack 8.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 4, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 49.0/100, Attack 12.7, Defense 5.0, Attack Speed 1.0
+  Monster: HP 10.6/32, Attack 8.0, Defense 2.0, Attack Speed 1.2
+Difficulty Insane, Game 4, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 169.0/169, Attack 16.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 58.0/86, Attack 4.0, Defense 2.0, Attack Speed 1.2
+Difficulty Insane, Game 4, Steps 7, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 169.0/169, Attack 16.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 16.0/86, Attack 4.0, Defense 2.0, Attack Speed 1.2
+Difficulty Insane, Game 4, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 192.8/202.8, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 34.0/94, Attack 10.0, Defense 2.0, Attack Speed 2.2
+Difficulty Insane, Game 4, Steps 17, Turn 5, Win Rate: 0.976, Choice: c
+  Player: HP 231.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 112.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 10, Win Rate: 0.979, Choice: c
+  Player: HP 211.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 94.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 15, Win Rate: 0.953, Choice: c
+  Player: HP 186.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 94.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 20, Win Rate: 0.986, Choice: c
+  Player: HP 171.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 58.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 25, Win Rate: 0.999, Choice: c
+  Player: HP 161.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 22.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 30, Win Rate: 0.996, Choice: c
+  Player: HP 141.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 22.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 35, Win Rate: 0.990, Choice: c
+  Player: HP 121.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 22.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 40, Win Rate: 0.976, Choice: c
+  Player: HP 101.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 22.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 4, Steps 17, Turn 45, Win Rate: 0.954, Choice: c
+  Player: HP 86.0/241, Attack 22.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 22.0/166, Attack 10.0, Defense 4.0, Attack Speed 7.3
+Difficulty Insane, Game 5, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 51.0/75, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Insane, Game 5, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 27.0/75, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Insane, Game 5, Steps 1, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 11.0/75, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Insane, Game 5, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 15.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 20.0/85, Attack 3.0, Defense 2.0, Attack Speed 1.3
+Difficulty Insane, Game 5, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 142.6/150, Attack 26.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 41.0/113, Attack 10.0, Defense 2.0, Attack Speed 2.2
+Difficulty Insane, Game 5, Steps 11, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 127.8/150, Attack 26.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 17.0/113, Attack 10.0, Defense 2.0, Attack Speed 2.2
+Difficulty Insane, Game 5, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 173.2/192, Attack 26.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 92.0/116, Attack 11.0, Defense 2.0, Attack Speed 1.5
+Difficulty Insane, Game 5, Steps 13, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 163.8/192, Attack 26.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 20.0/116, Attack 11.0, Defense 2.0, Attack Speed 1.5
+Difficulty Insane, Game 5, Steps 19, Turn 5, Win Rate: 0.991, Choice: c
+  Player: HP 130.2/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 102.3/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 10, Win Rate: 0.999, Choice: c
+  Player: HP 119.1/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 50.9/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 104.3/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 25.2/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 20, Win Rate: 0.999, Choice: c
+  Player: HP 93.2/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 25.2/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 25, Win Rate: 0.997, Choice: c
+  Player: HP 74.7/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 25.2/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 30, Win Rate: 0.987, Choice: c
+  Player: HP 56.2/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 25.2/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 35, Win Rate: 0.950, Choice: c
+  Player: HP 37.7/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 25.2/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 40, Win Rate: 0.805, Choice: c
+  Player: HP 19.2/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 25.2/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 5, Steps 19, Turn 45, Win Rate: 0.239, Choice: r
+  Player: HP 0.7/192, Attack 33.7, Defense 6.3, Attack Speed 1.6
+  Monster: HP 25.2/128, Attack 10.0, Defense 8.0, Attack Speed 5.2
+Difficulty Insane, Game 6, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 19.0/51, Attack 5.0, Defense 2.0, Attack Speed 1.3
+Difficulty Insane, Game 6, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 11.0/51, Attack 5.0, Defense 2.0, Attack Speed 1.3
+Difficulty Insane, Game 6, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 30.0/46, Attack 3.0, Defense 2.0, Attack Speed 2.3
+Difficulty Insane, Game 6, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 14.0/46, Attack 3.0, Defense 2.0, Attack Speed 2.3
+Difficulty Insane, Game 6, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 180.0/180, Attack 13.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 27.0/75, Attack 3.0, Defense 1.0, Attack Speed 1.2
+Difficulty Insane, Game 6, Steps 16, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 180.0/180, Attack 16.7, Defense 5.0, Attack Speed 1.8
+  Monster: HP 32.3/48, Attack 4.0, Defense 1.0, Attack Speed 3.1
+Difficulty Insane, Game 6, Steps 16, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 180.0/180, Attack 16.7, Defense 5.0, Attack Speed 1.8
+  Monster: HP 32.3/48, Attack 4.0, Defense 1.0, Attack Speed 3.1
+Difficulty Insane, Game 6, Steps 23, Turn 5, Win Rate: 0.000, Choice: r
+  Player: HP 136.0/180, Attack 19.5, Defense 5.0, Attack Speed 1.8
+  Monster: HP 128.5/140, Attack 16.0, Defense 8.0, Attack Speed 8.1
+Difficulty Insane, Game 6, Steps 25, Turn 5, Win Rate: 0.000, Choice: c
+  Player: HP 65.0/180, Attack 19.5, Defense 5.0, Attack Speed 1.8
+  Monster: HP 106.0/106, Attack 28.0, Defense 8.0, Attack Speed 5.8
+Difficulty Insane, Game 7, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 88.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 28.0/37, Attack 8.0, Defense 1.0, Attack Speed 1.1
+Difficulty Insane, Game 7, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 82.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.0/37, Attack 8.0, Defense 1.0, Attack Speed 1.1
+Difficulty Insane, Game 7, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 114.0/120, Attack 15.6, Defense 6.5, Attack Speed 1.5
+  Monster: HP 27.4/41, Attack 8.0, Defense 2.0, Attack Speed 1.3
+Difficulty Insane, Game 7, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 108.0/120, Attack 15.6, Defense 6.5, Attack Speed 1.5
+  Monster: HP 13.8/41, Attack 8.0, Defense 2.0, Attack Speed 1.3
+Difficulty Insane, Game 7, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 102.0/120, Attack 19.0, Defense 6.5, Attack Speed 1.5
+  Monster: HP 21.0/57, Attack 8.0, Defense 1.0, Attack Speed 2.4
+Difficulty Insane, Game 7, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 97.5/120, Attack 19.0, Defense 6.5, Attack Speed 1.7
+  Monster: HP 33.0/65, Attack 7.0, Defense 3.0, Attack Speed 1.9
+Difficulty Insane, Game 7, Steps 11, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 95.5/120, Attack 19.0, Defense 6.5, Attack Speed 1.7
+  Monster: HP 17.0/65, Attack 7.0, Defense 3.0, Attack Speed 1.9
+Difficulty Insane, Game 7, Steps 15, Turn 5, Win Rate: 0.000, Choice: c
+  Player: HP 52.5/120, Attack 19.0, Defense 6.5, Attack Speed 2.2
+  Monster: HP 119.0/158, Attack 28.0, Defense 6.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 15, Turn 10, Win Rate: 0.000, Choice: r
+  Player: HP 9.5/120, Attack 19.0, Defense 6.5, Attack Speed 2.2
+  Monster: HP 80.0/158, Attack 28.0, Defense 6.0, Attack Speed 6.7
+Difficulty Insane, Game 8, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 98.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 34.0/66, Attack 7.0, Defense 2.0, Attack Speed 1.0
+Difficulty Insane, Game 8, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 90.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 26.0/66, Attack 7.0, Defense 2.0, Attack Speed 1.0
+Difficulty Insane, Game 8, Steps 1, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 2.0/66, Attack 7.0, Defense 2.0, Attack Speed 1.0
+Difficulty Insane, Game 8, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 84.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 33.0/42, Attack 5.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 8, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 84.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 15.0/42, Attack 5.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 8, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 84.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 6.0/42, Attack 5.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 8, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 78.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.6
+  Monster: HP 22.0/40, Attack 7.0, Defense 1.0, Attack Speed 1.4
+Difficulty Insane, Game 8, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 70.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.6
+  Monster: HP 13.0/40, Attack 7.0, Defense 1.0, Attack Speed 1.4
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 0.714, Choice: r
+  Player: HP 47.6/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 38.0/47, Attack 11.0, Defense 1.0, Attack Speed 2.7
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 43.0/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 79.0/86, Attack 6.0, Defense 3.0, Attack Speed 2.5
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 43.0/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 43.0/64, Attack 6.0, Defense 3.0, Attack Speed 1.3
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 40.0/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 94.0/94, Attack 7.0, Defense 3.0, Attack Speed 2.2
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 0.592, Choice: r
+  Player: HP 21.0/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 36.0/45, Attack 11.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 16.4/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 32.0/46, Attack 5.0, Defense 3.0, Attack Speed 2.8
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 14.0/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 62.0/71, Attack 7.0, Defense 1.0, Attack Speed 1.3
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 13.4/100, Attack 10.0, Defense 6.4, Attack Speed 1.6
+  Monster: HP 61.0/77, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 9, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 124.0/128, Attack 14.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 37.0/73, Attack 7.0, Defense 2.0, Attack Speed 1.1
+Difficulty Insane, Game 9, Steps 7, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 118.0/128, Attack 14.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 13.0/73, Attack 7.0, Defense 2.0, Attack Speed 1.1
+Difficulty Insane, Game 9, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 106.0/128, Attack 14.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 19.0/32, Attack 8.0, Defense 1.0, Attack Speed 1.9
+Difficulty Insane, Game 9, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 93.4/128, Attack 14.0, Defense 6.1, Attack Speed 1.4
+  Monster: HP 21.0/34, Attack 7.0, Defense 1.0, Attack Speed 2.3
+Difficulty Insane, Game 9, Steps 9, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 89.8/128, Attack 14.0, Defense 6.1, Attack Speed 1.4
+  Monster: HP 8.0/34, Attack 7.0, Defense 1.0, Attack Speed 2.3
+Difficulty Insane, Game 9, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 227.0/227, Attack 14.0, Defense 7.6, Attack Speed 1.7
+  Monster: HP 8.0/44, Attack 7.0, Defense 2.0, Attack Speed 2.4
+Difficulty Insane, Game 9, Steps 16, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 227.0/227, Attack 17.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 7.2/57, Attack 4.0, Defense 1.0, Attack Speed 3.1
+Difficulty Insane, Game 9, Steps 21, Turn 5, Win Rate: 0.004, Choice: r
+  Player: HP 135.0/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 180.0/180, Attack 26.0, Defense 6.0, Attack Speed 4.2
+Difficulty Insane, Game 9, Steps 21, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 219.8/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 122.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 207.8/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 122.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 198.2/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 104.2/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 186.2/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 104.2/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 25, Win Rate: 0.999, Choice: c
+  Player: HP 174.2/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 104.2/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 167.0/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 67.0/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 35, Win Rate: 1.000, Choice: c
+  Player: HP 159.8/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 29.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 40, Win Rate: 1.000, Choice: c
+  Player: HP 150.2/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 29.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 45, Win Rate: 1.000, Choice: c
+  Player: HP 140.6/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 29.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 50, Win Rate: 1.000, Choice: c
+  Player: HP 133.4/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 29.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 55, Win Rate: 1.000, Choice: c
+  Player: HP 123.8/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 29.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 9, Steps 21, Turn 60, Win Rate: 1.000, Choice: c
+  Player: HP 111.8/227, Attack 22.6, Defense 7.6, Attack Speed 1.7
+  Monster: HP 29.8/160, Attack 10.0, Defense 4.0, Attack Speed 6.6
+Difficulty Insane, Game 10, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 99.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 23.0/59, Attack 6.0, Defense 1.0, Attack Speed 0.9
+Difficulty Insane, Game 10, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/117, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 13.0/31, Attack 5.0, Defense 1.0, Attack Speed 2.2
+Difficulty Insane, Game 10, Steps 3, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/117, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 13.0/31, Attack 5.0, Defense 1.0, Attack Speed 2.2
+Difficulty Insane, Game 10, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 108.0/117, Attack 10.0, Defense 6.2, Attack Speed 1.0
+  Monster: HP 73.0/73, Attack 8.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 10, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.8/117, Attack 10.0, Defense 6.2, Attack Speed 1.0
+  Monster: HP 64.0/73, Attack 8.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 10, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 95.4/117, Attack 10.0, Defense 6.2, Attack Speed 1.0
+  Monster: HP 46.0/73, Attack 8.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 10, Steps 4, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 91.8/117, Attack 10.0, Defense 6.2, Attack Speed 1.0
+  Monster: HP 19.0/73, Attack 8.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 10, Steps 4, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 84.6/117, Attack 10.0, Defense 6.2, Attack Speed 1.0
+  Monster: HP 10.0/73, Attack 8.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 10, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 131.6/137, Attack 16.5, Defense 6.2, Attack Speed 2.4
+  Monster: HP 79.0/106, Attack 8.0, Defense 3.0, Attack Speed 2.5
+Difficulty Insane, Game 10, Steps 8, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 128.0/137, Attack 16.5, Defense 6.2, Attack Speed 2.4
+  Monster: HP 38.5/106, Attack 8.0, Defense 3.0, Attack Speed 2.5
+Difficulty Insane, Game 10, Steps 8, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 122.6/137, Attack 16.5, Defense 6.2, Attack Speed 2.4
+  Monster: HP 11.5/106, Attack 8.0, Defense 3.0, Attack Speed 2.5
+Difficulty Insane, Game 10, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/137, Attack 18.4, Defense 6.2, Attack Speed 2.4
+  Monster: HP 33.8/83, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Insane, Game 10, Steps 15, Turn 5, Win Rate: 0.025, Choice: c
+  Player: HP 97.4/137, Attack 22.6, Defense 6.2, Attack Speed 2.4
+  Monster: HP 220.2/270, Attack 18.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 10, Steps 15, Turn 10, Win Rate: 0.003, Choice: c
+  Player: HP 50.2/137, Attack 22.6, Defense 6.2, Attack Speed 2.4
+  Monster: HP 203.6/270, Attack 18.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 10, Steps 15, Turn 15, Win Rate: 0.003, Choice: c
+  Player: HP 26.6/137, Attack 22.6, Defense 6.2, Attack Speed 2.4
+  Monster: HP 153.8/270, Attack 18.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 1, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 44.0/53, Attack 7.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 1, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 84.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 35.0/53, Attack 7.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 1, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 76.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 26.0/53, Attack 7.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 1, Steps 0, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 68.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 17.0/53, Attack 7.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 1, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 131.6/135, Attack 10.0, Defense 6.3, Attack Speed 2.0
+  Monster: HP 12.0/39, Attack 8.0, Defense 1.0, Attack Speed 1.9
+Difficulty Insane, Game 1, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 124.8/135, Attack 10.0, Defense 6.3, Attack Speed 2.0
+  Monster: HP 3.0/39, Attack 8.0, Defense 1.0, Attack Speed 1.9
+Difficulty Insane, Game 1, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 159.2/162.0, Attack 10.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 80.0/89, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 1, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 157.8/162.0, Attack 10.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 53.0/89, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 1, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 157.8/162.0, Attack 10.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 8.0/89, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 1, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 171.6/179, Attack 10.0, Defense 6.3, Attack Speed 3.6
+  Monster: HP 34.0/55, Attack 10.0, Defense 3.0, Attack Speed 1.7
+Difficulty Insane, Game 1, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 160.5/179, Attack 10.0, Defense 6.3, Attack Speed 3.6
+  Monster: HP 20.0/55, Attack 10.0, Defense 3.0, Attack Speed 1.7
+Difficulty Insane, Game 1, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 153.1/179, Attack 12.7, Defense 6.3, Attack Speed 3.6
+  Monster: HP 25.6/47, Attack 6.0, Defense 2.0, Attack Speed 2.5
+Difficulty Insane, Game 1, Steps 19, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 148.7/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 133.9/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 144.3/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 119.8/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 142.1/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 101.0/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 137.7/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 86.9/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 133.3/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 72.8/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 128.9/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 58.7/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 35, Win Rate: 1.000, Choice: c
+  Player: HP 120.1/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 54.0/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 40, Win Rate: 1.000, Choice: c
+  Player: HP 113.5/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 44.6/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 45, Win Rate: 1.000, Choice: c
+  Player: HP 109.1/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 30.5/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 50, Win Rate: 1.000, Choice: c
+  Player: HP 102.5/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 25.8/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 55, Win Rate: 1.000, Choice: c
+  Player: HP 93.7/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 25.8/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 60, Win Rate: 1.000, Choice: c
+  Player: HP 84.9/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 25.8/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 65, Win Rate: 1.000, Choice: c
+  Player: HP 73.9/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 25.8/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 70, Win Rate: 1.000, Choice: c
+  Player: HP 67.3/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 25.8/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 1, Steps 19, Turn 75, Win Rate: 1.000, Choice: c
+  Player: HP 62.9/179, Attack 12.7, Defense 7.8, Attack Speed 3.6
+  Monster: HP 16.4/148, Attack 10.0, Defense 8.0, Attack Speed 4.1
+Difficulty Insane, Game 2, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 78.0/78, Attack 4.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 2, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 60.0/78, Attack 4.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 2, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 51.0/78, Attack 4.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 2, Steps 0, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 42.0/78, Attack 4.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 2, Steps 0, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 33.0/78, Attack 4.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 2, Steps 0, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 24.0/78, Attack 4.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 2, Steps 0, Turn 35, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 15.0/78, Attack 4.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 2, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 34.0/52, Attack 5.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 2, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 16.0/52, Attack 5.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 2, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 6.0, Attack Speed 1.2
+  Monster: HP 22.0/31, Attack 3.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 2, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 188.0/188, Attack 25.0, Defense 7.7, Attack Speed 1.7
+  Monster: HP 90.0/112, Attack 4.0, Defense 3.0, Attack Speed 3.1
+Difficulty Insane, Game 2, Steps 9, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 188.0/188, Attack 25.0, Defense 7.7, Attack Speed 1.7
+  Monster: HP 46.0/112, Attack 4.0, Defense 3.0, Attack Speed 3.1
+Difficulty Insane, Game 2, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 238.0/238, Attack 29.9, Defense 7.7, Attack Speed 1.7
+  Monster: HP 56.1/84, Attack 5.0, Defense 2.0, Attack Speed 2.8
+Difficulty Insane, Game 2, Steps 14, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 238.0/238, Attack 29.9, Defense 7.7, Attack Speed 1.7
+  Monster: HP 56.1/84, Attack 5.0, Defense 2.0, Attack Speed 2.8
+Difficulty Insane, Game 2, Steps 14, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 238.0/238, Attack 29.9, Defense 7.7, Attack Speed 1.7
+  Monster: HP 28.2/84, Attack 5.0, Defense 2.0, Attack Speed 2.8
+Difficulty Insane, Game 2, Steps 19, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 228.8/238, Attack 29.9, Defense 7.7, Attack Speed 2.2
+  Monster: HP 112.1/136, Attack 10.0, Defense 6.0, Attack Speed 7.2
+Difficulty Insane, Game 2, Steps 19, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 221.9/238, Attack 29.9, Defense 7.7, Attack Speed 2.2
+  Monster: HP 64.3/136, Attack 10.0, Defense 6.0, Attack Speed 7.2
+Difficulty Insane, Game 2, Steps 19, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 217.3/238, Attack 29.9, Defense 7.7, Attack Speed 2.2
+  Monster: HP 16.5/136, Attack 10.0, Defense 6.0, Attack Speed 7.2
+Difficulty Insane, Game 2, Steps 19, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 205.8/238, Attack 29.9, Defense 7.7, Attack Speed 2.2
+  Monster: HP 16.5/136, Attack 10.0, Defense 6.0, Attack Speed 7.2
+Difficulty Insane, Game 2, Steps 19, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 198.9/238, Attack 29.9, Defense 7.7, Attack Speed 2.2
+  Monster: HP 16.5/136, Attack 10.0, Defense 6.0, Attack Speed 7.2
+Difficulty Insane, Game 2, Steps 19, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 189.7/238, Attack 29.9, Defense 7.7, Attack Speed 2.2
+  Monster: HP 16.5/136, Attack 10.0, Defense 6.0, Attack Speed 7.2
+Difficulty Insane, Game 2, Steps 19, Turn 35, Win Rate: 1.000, Choice: c
+  Player: HP 180.5/238, Attack 29.9, Defense 7.7, Attack Speed 2.2
+  Monster: HP 16.5/136, Attack 10.0, Defense 6.0, Attack Speed 7.2
+Difficulty Insane, Game 3, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 39.0/48, Attack 4.0, Defense 1.0, Attack Speed 1.5
+Difficulty Insane, Game 3, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 21.0/48, Attack 4.0, Defense 1.0, Attack Speed 1.5
+Difficulty Insane, Game 3, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 12.0/48, Attack 4.0, Defense 1.0, Attack Speed 1.5
+Difficulty Insane, Game 3, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 22.2/34, Attack 6.0, Defense 1.0, Attack Speed 2.3
+Difficulty Insane, Game 3, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 10.4/34, Attack 6.0, Defense 1.0, Attack Speed 2.3
+Difficulty Insane, Game 3, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 199.2/202, Attack 15.0, Defense 6.3, Attack Speed 1.1
+  Monster: HP 74.0/88, Attack 7.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 3, Steps 6, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 197.1/202, Attack 15.0, Defense 6.3, Attack Speed 1.1
+  Monster: HP 46.0/88, Attack 7.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 3, Steps 6, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 195.0/202, Attack 15.0, Defense 6.3, Attack Speed 1.1
+  Monster: HP 18.0/88, Attack 7.0, Defense 1.0, Attack Speed 1.8
+Difficulty Insane, Game 3, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 195.0/202, Attack 15.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 80.0/92, Attack 5.0, Defense 3.0, Attack Speed 2.1
+Difficulty Insane, Game 3, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 195.0/202, Attack 15.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 68.0/92, Attack 5.0, Defense 3.0, Attack Speed 2.1
+Difficulty Insane, Game 3, Steps 12, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 195.0/202, Attack 15.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 56.0/92, Attack 5.0, Defense 3.0, Attack Speed 2.1
+Difficulty Insane, Game 3, Steps 12, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 195.0/202, Attack 15.0, Defense 6.3, Attack Speed 1.3
+  Monster: HP 20.0/92, Attack 5.0, Defense 3.0, Attack Speed 2.1
+Difficulty Insane, Game 3, Steps 16, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 215.9/227, Attack 17.0, Defense 6.3, Attack Speed 1.6
+  Monster: HP 33.0/61, Attack 10.0, Defense 3.0, Attack Speed 2.0
+Difficulty Insane, Game 3, Steps 16, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 201.1/227, Attack 17.0, Defense 6.3, Attack Speed 1.6
+  Monster: HP 19.0/61, Attack 10.0, Defense 3.0, Attack Speed 2.0
+Difficulty Insane, Game 3, Steps 18, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 201.1/227, Attack 21.7, Defense 8.1, Attack Speed 1.6
+  Monster: HP 33.9/93, Attack 5.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 3, Steps 25, Turn 5, Win Rate: 0.077, Choice: c
+  Player: HP 171.4/227, Attack 26.6, Defense 8.1, Attack Speed 1.6
+  Monster: HP 256.8/294, Attack 18.0, Defense 8.0, Attack Speed 3.5
+Difficulty Insane, Game 3, Steps 25, Turn 10, Win Rate: 0.038, Choice: c
+  Player: HP 131.8/227, Attack 26.6, Defense 8.1, Attack Speed 1.6
+  Monster: HP 238.2/294, Attack 18.0, Defense 8.0, Attack Speed 3.5
+Difficulty Insane, Game 3, Steps 25, Turn 15, Win Rate: 0.013, Choice: c
+  Player: HP 92.2/227, Attack 26.6, Defense 8.1, Attack Speed 1.6
+  Monster: HP 219.6/294, Attack 18.0, Defense 8.0, Attack Speed 3.5
+Difficulty Insane, Game 3, Steps 25, Turn 20, Win Rate: 0.035, Choice: c
+  Player: HP 72.4/227, Attack 26.6, Defense 8.1, Attack Speed 1.6
+  Monster: HP 163.8/294, Attack 18.0, Defense 8.0, Attack Speed 3.5
+Difficulty Insane, Game 3, Steps 25, Turn 25, Win Rate: 0.028, Choice: c
+  Player: HP 42.7/227, Attack 26.6, Defense 8.1, Attack Speed 1.6
+  Monster: HP 126.6/294, Attack 18.0, Defense 8.0, Attack Speed 3.5
+Difficulty Insane, Game 3, Steps 25, Turn 30, Win Rate: 0.083, Choice: c
+  Player: HP 22.9/227, Attack 26.6, Defense 8.1, Attack Speed 1.6
+  Monster: HP 70.8/294, Attack 18.0, Defense 8.0, Attack Speed 3.5
+Difficulty Insane, Game 4, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 45.0/69, Attack 7.0, Defense 2.0, Attack Speed 0.9
+Difficulty Insane, Game 4, Steps 0, Turn 10, Win Rate: 1.000, Choice: r
+  Player: HP 86.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 45.0/69, Attack 7.0, Defense 2.0, Attack Speed 0.9
+Difficulty Insane, Game 4, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 148.0/148, Attack 11.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 61.0/81, Attack 4.0, Defense 1.0, Attack Speed 0.8
+Difficulty Insane, Game 4, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 148.0/148, Attack 11.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 41.0/81, Attack 4.0, Defense 1.0, Attack Speed 0.8
+Difficulty Insane, Game 4, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 148.0/148, Attack 11.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 41.0/81, Attack 4.0, Defense 1.0, Attack Speed 0.8
+Difficulty Insane, Game 4, Steps 4, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 148.0/148, Attack 11.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.0/81, Attack 4.0, Defense 1.0, Attack Speed 0.8
+Difficulty Insane, Game 4, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 144.0/148, Attack 11.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 17.0/47, Attack 7.0, Defense 1.0, Attack Speed 1.9
+Difficulty Insane, Game 4, Steps 8, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 136.0/148, Attack 11.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 7.0/47, Attack 7.0, Defense 1.0, Attack Speed 1.9
+Difficulty Insane, Game 4, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 132.0/148, Attack 12.9, Defense 5.0, Attack Speed 1.2
+  Monster: HP 15.2/39, Attack 3.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 4, Steps 10, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 132.0/148, Attack 12.9, Defense 5.0, Attack Speed 1.2
+  Monster: HP 15.2/39, Attack 3.0, Defense 1.0, Attack Speed 2.0
+Difficulty Insane, Game 4, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 128.0/148, Attack 16.7, Defense 5.0, Attack Speed 1.2
+  Monster: HP 92.3/106, Attack 6.0, Defense 3.0, Attack Speed 2.9
+Difficulty Insane, Game 4, Steps 13, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 124.0/148, Attack 16.7, Defense 5.0, Attack Speed 1.2
+  Monster: HP 78.6/106, Attack 6.0, Defense 3.0, Attack Speed 2.9
+Difficulty Insane, Game 4, Steps 13, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/148, Attack 16.7, Defense 5.0, Attack Speed 1.2
+  Monster: HP 51.2/106, Attack 6.0, Defense 3.0, Attack Speed 2.9
+Difficulty Insane, Game 4, Steps 13, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/148, Attack 16.7, Defense 5.0, Attack Speed 1.2
+  Monster: HP 37.5/106, Attack 6.0, Defense 3.0, Attack Speed 2.9
+Difficulty Insane, Game 4, Steps 13, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 113.0/148, Attack 16.7, Defense 5.0, Attack Speed 1.2
+  Monster: HP 23.8/106, Attack 6.0, Defense 3.0, Attack Speed 2.9
+Difficulty Insane, Game 4, Steps 20, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 284.5/300, Attack 21.0, Defense 6.5, Attack Speed 1.9
+  Monster: HP 13.0/49, Attack 10.0, Defense 3.0, Attack Speed 3.1
+Difficulty Insane, Game 4, Steps 23, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 281.0/300, Attack 26.2, Defense 6.5, Attack Speed 1.9
+  Monster: HP 19.2/116, Attack 6.0, Defense 2.0, Attack Speed 1.5
+Difficulty Insane, Game 4, Steps 27, Turn 5, Win Rate: 0.805, Choice: c
+  Player: HP 243.5/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 202.0/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 4, Steps 27, Turn 10, Win Rate: 0.795, Choice: c
+  Player: HP 213.5/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 174.3/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 4, Steps 27, Turn 15, Win Rate: 0.959, Choice: c
+  Player: HP 198.5/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 91.2/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 4, Steps 27, Turn 20, Win Rate: 0.897, Choice: c
+  Player: HP 161.0/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 91.2/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 4, Steps 27, Turn 25, Win Rate: 0.979, Choice: c
+  Player: HP 146.0/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 35.8/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 4, Steps 27, Turn 30, Win Rate: 0.947, Choice: c
+  Player: HP 116.0/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 35.8/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 4, Steps 27, Turn 35, Win Rate: 0.868, Choice: c
+  Player: HP 86.0/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 35.8/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 4, Steps 27, Turn 40, Win Rate: 0.748, Choice: c
+  Player: HP 63.5/300, Attack 33.7, Defense 6.5, Attack Speed 1.9
+  Monster: HP 35.8/202, Attack 14.0, Defense 6.0, Attack Speed 5.9
+Difficulty Insane, Game 5, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/125, Attack 11.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 4.0/34, Attack 7.0, Defense 1.0, Attack Speed 1.1
+Difficulty Insane, Game 5, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/125, Attack 11.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 37.0/46, Attack 3.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 5, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/125, Attack 11.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 10.0/46, Attack 3.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 5, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/125, Attack 11.0, Defense 6.5, Attack Speed 1.8
+  Monster: HP 21.0/51, Attack 7.0, Defense 1.0, Attack Speed 0.8
+Difficulty Insane, Game 5, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/125, Attack 11.0, Defense 6.5, Attack Speed 2.2
+  Monster: HP 3.0/43, Attack 5.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 5, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 145.5/150.0, Attack 14.1, Defense 6.5, Attack Speed 2.2
+  Monster: HP 26.8/49, Attack 8.0, Defense 3.0, Attack Speed 1.2
+Difficulty Insane, Game 5, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 144.0/150.0, Attack 14.1, Defense 6.5, Attack Speed 2.8
+  Monster: HP 18.8/41, Attack 7.0, Defense 3.0, Attack Speed 1.6
+Difficulty Insane, Game 5, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 139.0/150.0, Attack 17.5, Defense 6.5, Attack Speed 2.8
+  Monster: HP 11.5/61, Attack 9.0, Defense 1.0, Attack Speed 2.2
+Difficulty Insane, Game 5, Steps 19, Turn 5, Win Rate: 0.197, Choice: c
+  Player: HP 126.0/173, Attack 34.0, Defense 6.5, Attack Speed 3.9
+  Monster: HP 192.0/276, Attack 30.0, Defense 6.0, Attack Speed 5.4
+Difficulty Insane, Game 5, Steps 19, Turn 10, Win Rate: 0.117, Choice: c
+  Player: HP 55.5/173, Attack 34.0, Defense 6.5, Attack Speed 3.9
+  Monster: HP 136.0/276, Attack 30.0, Defense 6.0, Attack Speed 5.4
+Difficulty Insane, Game 6, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 27.0/54, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 6, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 90.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 9.0/54, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 6, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 123.0/127, Attack 18.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 48.0/65, Attack 6.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 6, Steps 5, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 119.0/127, Attack 18.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 31.0/65, Attack 6.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 6, Steps 5, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 114.0/127, Attack 18.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 31.0/65, Attack 6.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 6, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 114.0/127, Attack 23.2, Defense 5.0, Attack Speed 1.2
+  Monster: HP 37.8/59, Attack 4.0, Defense 2.0, Attack Speed 2.3
+Difficulty Insane, Game 6, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 105.0/127, Attack 23.2, Defense 5.0, Attack Speed 1.5
+  Monster: HP 61.6/104, Attack 8.0, Defense 2.0, Attack Speed 1.9
+Difficulty Insane, Game 6, Steps 11, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/127, Attack 23.2, Defense 5.0, Attack Speed 1.5
+  Monster: HP 19.2/104, Attack 8.0, Defense 2.0, Attack Speed 1.9
+Difficulty Insane, Game 6, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/127, Attack 23.2, Defense 5.0, Attack Speed 1.9
+  Monster: HP 12.0/113, Attack 4.0, Defense 3.0, Attack Speed 3.0
+Difficulty Insane, Game 6, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/127, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 82.2/107, Attack 6.0, Defense 2.0, Attack Speed 2.9
+Difficulty Insane, Game 6, Steps 17, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 89.0/127, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 32.6/107, Attack 6.0, Defense 2.0, Attack Speed 2.9
+Difficulty Insane, Game 6, Steps 17, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 85.0/127, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 7.8/107, Attack 6.0, Defense 2.0, Attack Speed 2.9
+Difficulty Insane, Game 6, Steps 21, Turn 5, Win Rate: 0.023, Choice: c
+  Player: HP 143.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 255.2/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 10, Win Rate: 0.018, Choice: c
+  Player: HP 123.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 236.4/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 15, Win Rate: 0.271, Choice: c
+  Player: HP 123.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 142.4/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 20, Win Rate: 0.259, Choice: c
+  Player: HP 103.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 123.6/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 25, Win Rate: 0.243, Choice: c
+  Player: HP 83.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 104.8/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 30, Win Rate: 0.425, Choice: c
+  Player: HP 68.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 67.2/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 35, Win Rate: 0.528, Choice: c
+  Player: HP 58.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 48.4/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 40, Win Rate: 0.303, Choice: c
+  Player: HP 38.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 48.4/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 45, Win Rate: 0.137, Choice: c
+  Player: HP 23.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 48.4/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 6, Steps 21, Turn 50, Win Rate: 0.007, Choice: r
+  Player: HP 3.0/163, Attack 26.8, Defense 5.0, Attack Speed 1.9
+  Monster: HP 48.4/274, Attack 10.0, Defense 8.0, Attack Speed 8.0
+Difficulty Insane, Game 7, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 34.0/50, Attack 3.0, Defense 2.0, Attack Speed 2.1
+Difficulty Insane, Game 7, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 10.0/50, Attack 3.0, Defense 2.0, Attack Speed 2.1
+Difficulty Insane, Game 7, Steps 1, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 2.0/50, Attack 3.0, Defense 2.0, Attack Speed 2.1
+Difficulty Insane, Game 7, Steps 3, Turn 5, Win Rate: 0.999, Choice: c
+  Player: HP 88.0/100, Attack 11.6, Defense 5.0, Attack Speed 1.0
+  Monster: HP 26.4/36, Attack 8.0, Defense 2.0, Attack Speed 2.3
+Difficulty Insane, Game 7, Steps 3, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 79.0/100, Attack 11.6, Defense 5.0, Attack Speed 1.0
+  Monster: HP 7.2/36, Attack 8.0, Defense 2.0, Attack Speed 2.3
+Difficulty Insane, Game 7, Steps 3, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 64.0/100, Attack 11.6, Defense 5.0, Attack Speed 1.0
+  Monster: HP 7.2/36, Attack 8.0, Defense 2.0, Attack Speed 2.3
+Difficulty Insane, Game 7, Steps 3, Turn 20, Win Rate: 0.998, Choice: c
+  Player: HP 49.0/100, Attack 11.6, Defense 5.0, Attack Speed 1.0
+  Monster: HP 7.2/36, Attack 8.0, Defense 2.0, Attack Speed 2.3
+Difficulty Insane, Game 7, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 129.6/136, Attack 13.0, Defense 6.4, Attack Speed 1.3
+  Monster: HP 61.0/72, Attack 8.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 7, Steps 6, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 123.2/136, Attack 13.0, Defense 6.4, Attack Speed 1.3
+  Monster: HP 50.0/72, Attack 8.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 7, Steps 6, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 116.8/136, Attack 13.0, Defense 6.4, Attack Speed 1.3
+  Monster: HP 39.0/72, Attack 8.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 7, Steps 6, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 113.6/136, Attack 13.0, Defense 6.4, Attack Speed 1.3
+  Monster: HP 6.0/72, Attack 8.0, Defense 2.0, Attack Speed 1.7
+Difficulty Insane, Game 7, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 163.0/163, Attack 15.6, Defense 6.4, Attack Speed 1.3
+  Monster: HP 74.4/88, Attack 3.0, Defense 2.0, Attack Speed 1.2
+Difficulty Insane, Game 7, Steps 11, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 163.0/163, Attack 15.6, Defense 6.4, Attack Speed 1.3
+  Monster: HP 33.6/88, Attack 3.0, Defense 2.0, Attack Speed 1.2
+Difficulty Insane, Game 7, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 195.0/195, Attack 32.0, Defense 6.4, Attack Speed 1.3
+  Monster: HP 75.0/104, Attack 6.0, Defense 3.0, Attack Speed 2.8
+Difficulty Insane, Game 7, Steps 17, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 195.0/195, Attack 32.0, Defense 6.4, Attack Speed 1.3
+  Monster: HP 46.0/104, Attack 6.0, Defense 3.0, Attack Speed 2.8
+Difficulty Insane, Game 7, Steps 20, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 192.6/195, Attack 39.1, Defense 6.4, Attack Speed 1.3
+  Monster: HP 73.9/110, Attack 7.0, Defense 3.0, Attack Speed 2.7
+Difficulty Insane, Game 7, Steps 20, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 190.2/195, Attack 39.1, Defense 6.4, Attack Speed 1.3
+  Monster: HP 37.8/110, Attack 7.0, Defense 3.0, Attack Speed 2.7
+Difficulty Insane, Game 7, Steps 20, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 187.2/195, Attack 39.1, Defense 6.4, Attack Speed 1.3
+  Monster: HP 37.8/110, Attack 7.0, Defense 3.0, Attack Speed 2.7
+Difficulty Insane, Game 7, Steps 31, Turn 5, Win Rate: 0.958, Choice: c
+  Player: HP 170.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 181.2/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 10, Win Rate: 0.924, Choice: c
+  Player: HP 150.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 181.2/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 15, Win Rate: 0.988, Choice: c
+  Player: HP 138.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 87.6/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 20, Win Rate: 0.997, Choice: c
+  Player: HP 126.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 40.8/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 25, Win Rate: 0.992, Choice: c
+  Player: HP 106.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 40.8/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 30, Win Rate: 0.984, Choice: c
+  Player: HP 90.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 40.8/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 35, Win Rate: 0.967, Choice: c
+  Player: HP 74.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 40.8/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 40, Win Rate: 0.933, Choice: c
+  Player: HP 58.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 40.8/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 45, Win Rate: 0.835, Choice: r
+  Player: HP 38.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 40.8/228, Attack 12.0, Defense 4.0, Attack Speed 6.7
+Difficulty Insane, Game 7, Steps 31, Turn 5, Win Rate: 0.909, Choice: c
+  Player: HP 28.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 114.4/204, Attack 10.0, Defense 6.0, Attack Speed 3.2
+Difficulty Insane, Game 7, Steps 31, Turn 10, Win Rate: 0.903, Choice: c
+  Player: HP 20.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 69.6/204, Attack 10.0, Defense 6.0, Attack Speed 3.2
+Difficulty Insane, Game 7, Steps 31, Turn 15, Win Rate: 0.967, Choice: c
+  Player: HP 18.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 24.8/204, Attack 10.0, Defense 6.0, Attack Speed 3.2
+Difficulty Insane, Game 7, Steps 31, Turn 20, Win Rate: 0.819, Choice: c
+  Player: HP 8.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 24.8/204, Attack 10.0, Defense 6.0, Attack Speed 3.2
+Difficulty Insane, Game 7, Steps 31, Turn 25, Win Rate: 0.496, Choice: c
+  Player: HP 2.0/195, Attack 50.8, Defense 8.0, Attack Speed 1.3
+  Monster: HP 24.8/204, Attack 10.0, Defense 6.0, Attack Speed 3.2
+Difficulty Insane, Game 8, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 25.0/34, Attack 6.0, Defense 1.0, Attack Speed 2.2
+Difficulty Insane, Game 8, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 91.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 25.0/34, Attack 6.0, Defense 1.0, Attack Speed 2.2
+Difficulty Insane, Game 8, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 25.0/34, Attack 6.0, Defense 1.0, Attack Speed 2.2
+Difficulty Insane, Game 8, Steps 0, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 83.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 7.0/34, Attack 6.0, Defense 1.0, Attack Speed 2.2
+Difficulty Insane, Game 8, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 77.0/100, Attack 15.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 11.0/37, Attack 7.0, Defense 2.0, Attack Speed 1.4
+Difficulty Insane, Game 8, Steps 3, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 67.0/100, Attack 15.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 11.0/37, Attack 7.0, Defense 2.0, Attack Speed 1.4
+Difficulty Insane, Game 8, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 60.0/100, Attack 18.1, Defense 5.0, Attack Speed 1.4
+  Monster: HP 40.8/75, Attack 6.0, Defense 1.0, Attack Speed 0.9
+Difficulty Insane, Game 8, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 57.0/100, Attack 18.1, Defense 5.0, Attack Speed 1.8
+  Monster: HP 42.6/103, Attack 7.0, Defense 3.0, Attack Speed 3.1
+Difficulty Insane, Game 8, Steps 9, Turn 10, Win Rate: 0.999, Choice: r
+  Player: HP 47.0/100, Attack 18.1, Defense 5.0, Attack Speed 1.8
+  Monster: HP 42.6/103, Attack 7.0, Defense 3.0, Attack Speed 3.1
+Difficulty Insane, Game 8, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 42.0/100, Attack 18.1, Defense 5.0, Attack Speed 1.8
+  Monster: HP 18.8/49, Attack 6.0, Defense 3.0, Attack Speed 2.5
+Difficulty Insane, Game 8, Steps 10, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 38.0/100, Attack 18.1, Defense 5.0, Attack Speed 1.8
+  Monster: HP 3.7/49, Attack 6.0, Defense 3.0, Attack Speed 2.5
+Difficulty Insane, Game 8, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 116.0/116, Attack 21.7, Defense 5.0, Attack Speed 1.8
+  Monster: HP 64.3/85, Attack 4.0, Defense 1.0, Attack Speed 3.0
+Difficulty Insane, Game 8, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 116.0/116, Attack 21.7, Defense 5.0, Attack Speed 1.8
+  Monster: HP 2.2/85, Attack 4.0, Defense 1.0, Attack Speed 3.0
+Difficulty Insane, Game 8, Steps 29, Turn 5, Win Rate: 0.965, Choice: c
+  Player: HP 113.0/149, Attack 47.1, Defense 5.0, Attack Speed 2.7
+  Monster: HP 122.9/166, Attack 14.0, Defense 4.0, Attack Speed 4.3
+Difficulty Insane, Game 9, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 46.0/54, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Insane, Game 9, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 88.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 22.0/54, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Insane, Game 9, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 82.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 6.0/54, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Insane, Game 9, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 76.0/100, Attack 16.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 34.0/48, Attack 6.0, Defense 2.0, Attack Speed 1.2
+Difficulty Insane, Game 9, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/122, Attack 16.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 30.0/30, Attack 6.0, Defense 2.0, Attack Speed 1.4
+Difficulty Insane, Game 9, Steps 7, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 114.0/122, Attack 16.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 2.0/30, Attack 6.0, Defense 2.0, Attack Speed 1.4
+Difficulty Insane, Game 9, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 173.0/177, Attack 26.0, Defense 5.0, Attack Speed 1.7
+  Monster: HP 4.0/76, Attack 7.0, Defense 2.0, Attack Speed 2.6
+Difficulty Insane, Game 9, Steps 13, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 163.0/177, Attack 26.0, Defense 5.0, Attack Speed 1.7
+  Monster: HP 4.0/76, Attack 7.0, Defense 2.0, Attack Speed 2.6
+Difficulty Insane, Game 9, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 212.0/227, Attack 26.0, Defense 5.0, Attack Speed 1.7
+  Monster: HP 59.0/109, Attack 10.0, Defense 1.0, Attack Speed 2.8
+Difficulty Insane, Game 9, Steps 14, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 197.0/227, Attack 26.0, Defense 5.0, Attack Speed 1.7
+  Monster: HP 9.0/109, Attack 10.0, Defense 1.0, Attack Speed 2.8
+Difficulty Insane, Game 9, Steps 19, Turn 5, Win Rate: 0.994, Choice: c
+  Player: HP 180.9/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 206.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 10, Win Rate: 0.993, Choice: c
+  Player: HP 166.1/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 186.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 15, Win Rate: 0.979, Choice: c
+  Player: HP 147.6/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 186.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 20, Win Rate: 0.999, Choice: c
+  Player: HP 143.9/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 106.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 136.5/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 46.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 121.7/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 46.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 35, Win Rate: 1.000, Choice: c
+  Player: HP 110.6/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 46.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 40, Win Rate: 0.999, Choice: c
+  Player: HP 99.5/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 46.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 9, Steps 19, Turn 45, Win Rate: 0.999, Choice: c
+  Player: HP 88.4/227, Attack 26.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 26.0/246, Attack 10.0, Defense 6.0, Attack Speed 3.5
+Difficulty Insane, Game 10, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 24.0/40, Attack 6.0, Defense 2.0, Attack Speed 1.8
+Difficulty Insane, Game 10, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 93.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 16.0/40, Attack 6.0, Defense 2.0, Attack Speed 1.8
+Difficulty Insane, Game 10, Steps 1, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 89.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 8.0/40, Attack 6.0, Defense 2.0, Attack Speed 1.8
+Difficulty Insane, Game 10, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 89.0/100, Attack 12.4, Defense 5.0, Attack Speed 1.0
+  Monster: HP 11.0/68, Attack 4.0, Defense 1.0, Attack Speed 1.0
+Difficulty Insane, Game 10, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 81.0/100, Attack 12.4, Defense 5.0, Attack Speed 1.2
+  Monster: HP 50.6/62, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 10, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 73.0/100, Attack 12.4, Defense 5.0, Attack Speed 1.2
+  Monster: HP 39.2/62, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 10, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 69.0/100, Attack 12.4, Defense 5.0, Attack Speed 1.2
+  Monster: HP 5.0/62, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Insane, Game 10, Steps 7, Turn 5, Win Rate: 0.999, Choice: c
+  Player: HP 57.0/100, Attack 15.5, Defense 5.0, Attack Speed 1.2
+  Monster: HP 12.0/39, Attack 9.0, Defense 2.0, Attack Speed 2.1
+Difficulty Insane, Game 10, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 53.0/100, Attack 20.1, Defense 5.0, Attack Speed 1.2
+  Monster: HP 35.6/112, Attack 4.0, Defense 1.0, Attack Speed 2.1
+Difficulty Insane, Game 10, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 150.0/154, Attack 49.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 14.0/60, Attack 6.0, Defense 3.0, Attack Speed 1.7
+Difficulty Insane, Game 10, Steps 21, Turn 5, Win Rate: 0.121, Choice: c
+  Player: HP 75.0/154, Attack 49.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 194.0/194, Attack 20.0, Defense 6.0, Attack Speed 3.2
+Difficulty Insane, Game 10, Steps 21, Turn 10, Win Rate: 0.097, Choice: c
+  Player: HP 30.0/154, Attack 49.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 108.0/194, Attack 20.0, Defense 6.0, Attack Speed 3.2
+Difficulty Easy, Game 2, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 4.0/44, Attack 2.0, Defense 0.0, Attack Speed 0.7
+Difficulty Easy, Game 3, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 17.0/26, Attack 1.0, Defense 1.0, Attack Speed 1.1
+Difficulty Easy, Game 3, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 8.0/26, Attack 1.0, Defense 1.0, Attack Speed 1.1
+Difficulty Easy, Game 3, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 1.0/19, Attack 1.0, Defense 1.0, Attack Speed 0.6
+Difficulty Easy, Game 3, Steps 22, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 116.0/116, Attack 24.0, Defense 5.0, Attack Speed 2.9
+  Monster: HP 8.0/54, Attack 2.0, Defense 1.0, Attack Speed 1.4
+Difficulty Easy, Game 4, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 7.0/16, Attack 2.0, Defense 1.0, Attack Speed 1.1
+Difficulty Easy, Game 4, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 28.0/28, Attack 3.0, Defense 1.0, Attack Speed 0.8
+Difficulty Easy, Game 4, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.6
+  Monster: HP 5.0/23, Attack 2.0, Defense 1.0, Attack Speed 1.4
+Difficulty Easy, Game 4, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 128.0/128, Attack 12.0, Defense 5.0, Attack Speed 1.6
+  Monster: HP 8.0/30, Attack 2.0, Defense 1.0, Attack Speed 1.4
+Difficulty Easy, Game 4, Steps 21, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 198.0/198, Attack 17.0, Defense 5.0, Attack Speed 4.3
+  Monster: HP 84.0/118, Attack 4.0, Defense 0.0, Attack Speed 3.8
+Difficulty Easy, Game 4, Steps 21, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 198.0/198, Attack 17.0, Defense 5.0, Attack Speed 4.3
+  Monster: HP 33.0/118, Attack 4.0, Defense 0.0, Attack Speed 3.8
+Difficulty Easy, Game 4, Steps 21, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 198.0/198, Attack 17.0, Defense 5.0, Attack Speed 4.3
+  Monster: HP 16.0/118, Attack 4.0, Defense 0.0, Attack Speed 3.8
+Difficulty Easy, Game 4, Steps 21, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 198.0/198, Attack 17.0, Defense 5.0, Attack Speed 4.3
+  Monster: HP 16.0/118, Attack 4.0, Defense 0.0, Attack Speed 3.8
+Difficulty Easy, Game 4, Steps 21, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 198.0/198, Attack 17.0, Defense 5.0, Attack Speed 4.3
+  Monster: HP 16.0/118, Attack 4.0, Defense 0.0, Attack Speed 3.8
+Difficulty Easy, Game 5, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 6.4, Attack Speed 1.0
+  Monster: HP 3.0/39, Attack 4.0, Defense 1.0, Attack Speed 0.7
+Difficulty Easy, Game 6, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 25.0/43, Attack 4.0, Defense 1.0, Attack Speed 1.1
+Difficulty Easy, Game 6, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 7.0/43, Attack 4.0, Defense 1.0, Attack Speed 1.1
+Difficulty Easy, Game 6, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.5, Defense 5.0, Attack Speed 1.0
+  Monster: HP 18.0/41, Attack 2.0, Defense 1.0, Attack Speed 1.1
+Difficulty Easy, Game 6, Steps 25, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 384.0/384, Attack 60.6, Defense 5.0, Attack Speed 1.9
+  Monster: HP 120.0/120, Attack 4.0, Defense 4.0, Attack Speed 2.2
+Difficulty Easy, Game 6, Steps 25, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 384.0/384, Attack 60.6, Defense 5.0, Attack Speed 1.9
+  Monster: HP 6.8/120, Attack 4.0, Defense 4.0, Attack Speed 2.2
+Difficulty Easy, Game 6, Steps 25, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 384.0/384, Attack 60.6, Defense 5.0, Attack Speed 1.9
+  Monster: HP 6.8/120, Attack 4.0, Defense 4.0, Attack Speed 2.2
+Difficulty Easy, Game 6, Steps 25, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 384.0/384, Attack 60.6, Defense 5.0, Attack Speed 1.9
+  Monster: HP 6.8/120, Attack 4.0, Defense 4.0, Attack Speed 2.2
+Difficulty Easy, Game 7, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 14.0/44, Attack 2.0, Defense 0.0, Attack Speed 0.5
+Difficulty Easy, Game 7, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/121, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 17.0/37, Attack 3.0, Defense 0.0, Attack Speed 0.6
+Difficulty Easy, Game 7, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 201.0/201, Attack 19.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 5.0/43, Attack 4.0, Defense 0.0, Attack Speed 1.2
+Difficulty Easy, Game 7, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 201.0/201, Attack 19.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 13.0/49, Attack 2.0, Defense 1.0, Attack Speed 1.4
+Difficulty Easy, Game 7, Steps 25, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 242.0/248, Attack 33.3, Defense 5.0, Attack Speed 4.2
+  Monster: HP 2.1/96, Attack 8.0, Defense 2.0, Attack Speed 3.5
+Difficulty Easy, Game 7, Steps 25, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 239.0/248, Attack 33.3, Defense 5.0, Attack Speed 4.2
+  Monster: HP 2.1/96, Attack 8.0, Defense 2.0, Attack Speed 3.5
+Difficulty Easy, Game 8, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 15.0/35, Attack 2.0, Defense 0.0, Attack Speed 0.7
+Difficulty Easy, Game 8, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 12.6, Defense 5.0, Attack Speed 1.0
+  Monster: HP 13.4/26, Attack 3.0, Defense 0.0, Attack Speed 0.8
+Difficulty Easy, Game 8, Steps 6, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 12.6, Defense 5.0, Attack Speed 1.0
+  Monster: HP 0.8/26, Attack 3.0, Defense 0.0, Attack Speed 0.8
+Difficulty Easy, Game 8, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 16.1, Defense 5.0, Attack Speed 1.0
+  Monster: HP 5.8/36, Attack 5.0, Defense 1.0, Attack Speed 0.8
+Difficulty Easy, Game 9, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 129.0/129, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 2.0/29, Attack 2.0, Defense 1.0, Attack Speed 1.2
+Difficulty Normal, Game 1, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 51.2/63, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 51.2/63, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 39.4/63, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 4, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 39.4/63, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 4, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 27.6/63, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 4, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.0
+  Monster: HP 4.0/63, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.8, Defense 5.0, Attack Speed 1.2
+  Monster: HP 19.4/41, Attack 5.0, Defense 2.0, Attack Speed 1.6
+Difficulty Normal, Game 1, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 204.0/204, Attack 12.8, Defense 5.0, Attack Speed 1.8
+  Monster: HP 30.4/54, Attack 5.0, Defense 1.0, Attack Speed 1.4
+Difficulty Normal, Game 1, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 204.0/204, Attack 12.8, Defense 5.0, Attack Speed 2.3
+  Monster: HP 63.2/74, Attack 5.0, Defense 2.0, Attack Speed 1.8
+Difficulty Normal, Game 1, Steps 17, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 204.0/204, Attack 12.8, Defense 5.0, Attack Speed 2.3
+  Monster: HP 30.8/74, Attack 5.0, Defense 2.0, Attack Speed 1.8
+Difficulty Normal, Game 1, Steps 18, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 198.0/204, Attack 16.2, Defense 5.0, Attack Speed 2.3
+  Monster: HP 55.6/84, Attack 7.0, Defense 2.0, Attack Speed 2.1
+Difficulty Normal, Game 1, Steps 25, Turn 5, Win Rate: 0.338, Choice: r
+  Player: HP 140.0/204, Attack 31.6, Defense 5.0, Attack Speed 2.3
+  Monster: HP 176.0/176, Attack 16.0, Defense 4.0, Attack Speed 5.3
+Difficulty Normal, Game 2, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 37.0/53, Attack 5.0, Defense 2.0, Attack Speed 1.5
+Difficulty Normal, Game 2, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 21.0/53, Attack 5.0, Defense 2.0, Attack Speed 1.5
+Difficulty Normal, Game 2, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 10.0/26, Attack 2.0, Defense 2.0, Attack Speed 1.6
+Difficulty Normal, Game 2, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 11.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 22.0/52, Attack 4.0, Defense 1.0, Attack Speed 0.9
+Difficulty Normal, Game 2, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 11.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 2.0/52, Attack 4.0, Defense 1.0, Attack Speed 0.9
+Difficulty Normal, Game 2, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 14.1, Defense 5.0, Attack Speed 2.2
+  Monster: HP 40.8/67, Attack 6.0, Defense 1.0, Attack Speed 1.6
+Difficulty Normal, Game 2, Steps 5, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 95.0/100, Attack 14.1, Defense 5.0, Attack Speed 2.2
+  Monster: HP 1.5/67, Attack 6.0, Defense 1.0, Attack Speed 1.6
+Difficulty Normal, Game 2, Steps 15, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 16.0, Defense 5.0, Attack Speed 3.0
+  Monster: HP 5.0/50, Attack 3.0, Defense 1.0, Attack Speed 2.1
+Difficulty Normal, Game 2, Steps 25, Turn 5, Win Rate: 0.057, Choice: r
+  Player: HP 42.0/100, Attack 29.9, Defense 5.0, Attack Speed 3.8
+  Monster: HP 154.1/178, Attack 18.0, Defense 6.0, Attack Speed 5.6
+Difficulty Normal, Game 3, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 11.0/41, Attack 2.0, Defense 0.0, Attack Speed 1.4
+Difficulty Normal, Game 3, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 11.0/41, Attack 2.0, Defense 0.0, Attack Speed 1.4
+Difficulty Normal, Game 3, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 98.0/100, Attack 13.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 32.0/65, Attack 6.0, Defense 2.0, Attack Speed 0.9
+Difficulty Normal, Game 3, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 114.0/114, Attack 20.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 2.0/22, Attack 3.0, Defense 0.0, Attack Speed 1.4
+Difficulty Normal, Game 3, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 139.0/139, Attack 42.6, Defense 6.3, Attack Speed 1.7
+  Monster: HP 7.4/48, Attack 5.0, Defense 2.0, Attack Speed 2.2
+Difficulty Normal, Game 3, Steps 25, Turn 5, Win Rate: 0.286, Choice: r
+  Player: HP 96.5/139, Attack 42.6, Defense 7.5, Attack Speed 2.1
+  Monster: HP 184.0/184, Attack 16.0, Defense 6.0, Attack Speed 5.7
+Difficulty Normal, Game 4, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 48.0/58, Attack 5.0, Defense 0.0, Attack Speed 1.0
+Difficulty Normal, Game 4, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 28.0/58, Attack 5.0, Defense 0.0, Attack Speed 1.0
+Difficulty Normal, Game 4, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.6, Defense 5.0, Attack Speed 1.1
+  Monster: HP 21.8/45, Attack 5.0, Defense 1.0, Attack Speed 0.7
+Difficulty Normal, Game 4, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 15.2, Defense 5.0, Attack Speed 1.1
+  Monster: HP 18.8/34, Attack 3.0, Defense 0.0, Attack Speed 1.2
+Difficulty Normal, Game 4, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 18.1, Defense 5.0, Attack Speed 1.1
+  Monster: HP 1.8/34, Attack 3.0, Defense 2.0, Attack Speed 1.6
+Difficulty Normal, Game 4, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 115.0/118, Attack 21.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 30.0/70, Attack 6.0, Defense 1.0, Attack Speed 2.2
+Difficulty Normal, Game 4, Steps 25, Turn 5, Win Rate: 0.683, Choice: c
+  Player: HP 123.0/150, Attack 34.4, Defense 5.0, Attack Speed 1.4
+  Monster: HP 121.2/182, Attack 14.0, Defense 4.0, Attack Speed 4.1
+Difficulty Normal, Game 4, Steps 25, Turn 10, Win Rate: 0.860, Choice: c
+  Player: HP 96.0/150, Attack 34.4, Defense 5.0, Attack Speed 1.4
+  Monster: HP 60.4/182, Attack 14.0, Defense 4.0, Attack Speed 4.1
+Difficulty Normal, Game 4, Steps 25, Turn 15, Win Rate: 0.910, Choice: c
+  Player: HP 69.0/150, Attack 34.4, Defense 5.0, Attack Speed 1.4
+  Monster: HP 30.0/182, Attack 14.0, Defense 4.0, Attack Speed 4.1
+Difficulty Normal, Game 4, Steps 25, Turn 20, Win Rate: 0.779, Choice: r
+  Player: HP 42.0/150, Attack 34.4, Defense 5.0, Attack Speed 1.4
+  Monster: HP 30.0/182, Attack 14.0, Defense 4.0, Attack Speed 4.1
+Difficulty Normal, Game 5, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 8.0/32, Attack 4.0, Defense 2.0, Attack Speed 0.6
+Difficulty Normal, Game 5, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 11.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 0.8/38, Attack 4.0, Defense 2.0, Attack Speed 0.8
+Difficulty Normal, Game 5, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/119, Attack 21.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 2.0/65, Attack 6.0, Defense 0.0, Attack Speed 1.3
+Difficulty Normal, Game 5, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/119, Attack 21.0, Defense 6.5, Attack Speed 1.2
+  Monster: HP 46.0/86, Attack 3.0, Defense 1.0, Attack Speed 1.0
+Difficulty Normal, Game 5, Steps 21, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 273.6/288, Attack 42.0, Defense 8.4, Attack Speed 1.7
+  Monster: HP 82.0/122, Attack 12.0, Defense 2.0, Attack Speed 2.4
+Difficulty Normal, Game 5, Steps 21, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 273.6/288, Attack 42.0, Defense 8.4, Attack Speed 1.7
+  Monster: HP 2.0/122, Attack 12.0, Defense 2.0, Attack Speed 2.4
+Difficulty Normal, Game 5, Steps 21, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 262.8/288, Attack 42.0, Defense 8.4, Attack Speed 1.7
+  Monster: HP 2.0/122, Attack 12.0, Defense 2.0, Attack Speed 2.4
+Difficulty Normal, Game 6, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 47.0/65, Attack 3.0, Defense 1.0, Attack Speed 1.0
+Difficulty Normal, Game 6, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 38.0/65, Attack 3.0, Defense 1.0, Attack Speed 1.0
+Difficulty Normal, Game 6, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 20.0/65, Attack 3.0, Defense 1.0, Attack Speed 1.0
+Difficulty Normal, Game 6, Steps 2, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 2.0/65, Attack 3.0, Defense 1.0, Attack Speed 1.0
+Difficulty Normal, Game 6, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 2.0/29, Attack 5.0, Defense 1.0, Attack Speed 1.8
+Difficulty Normal, Game 6, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 14.0/59, Attack 2.0, Defense 1.0, Attack Speed 0.7
+Difficulty Normal, Game 6, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 11.5, Defense 5.0, Attack Speed 1.5
+  Monster: HP 43.5/54, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 6, Steps 5, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 11.5, Defense 5.0, Attack Speed 1.5
+  Monster: HP 33.0/54, Attack 5.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 6, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 91.0/100, Attack 27.0, Defense 5.0, Attack Speed 4.6
+  Monster: HP 9.0/78, Attack 10.0, Defense 4.0, Attack Speed 3.6
+Difficulty Normal, Game 6, Steps 17, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 27.0, Defense 5.0, Attack Speed 4.6
+  Monster: HP 9.0/78, Attack 10.0, Defense 4.0, Attack Speed 3.6
+Difficulty Normal, Game 7, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 58.0/67, Attack 4.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 7, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 40.0/67, Attack 4.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 7, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 22.0/67, Attack 4.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 7, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 31.0/49, Attack 6.0, Defense 1.0, Attack Speed 0.9
+Difficulty Normal, Game 7, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 13.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 20.0/42, Attack 3.0, Defense 2.0, Attack Speed 0.8
+Difficulty Normal, Game 7, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 16.1, Defense 5.0, Attack Speed 1.5
+  Monster: HP 15.9/32, Attack 6.0, Defense 0.0, Attack Speed 0.9
+Difficulty Normal, Game 7, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 94.0/100, Attack 16.1, Defense 5.0, Attack Speed 1.9
+  Monster: HP 30.7/76, Attack 6.0, Defense 1.0, Attack Speed 1.1
+Difficulty Normal, Game 7, Steps 15, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 19.0, Defense 5.0, Attack Speed 1.9
+  Monster: HP 66.0/83, Attack 3.0, Defense 2.0, Attack Speed 2.3
+Difficulty Normal, Game 7, Steps 15, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 19.0, Defense 5.0, Attack Speed 1.9
+  Monster: HP 15.0/83, Attack 3.0, Defense 2.0, Attack Speed 2.3
+Difficulty Normal, Game 7, Steps 25, Turn 5, Win Rate: 0.854, Choice: c
+  Player: HP 46.0/100, Attack 54.0, Defense 5.0, Attack Speed 1.9
+  Monster: HP 40.0/90, Attack 18.0, Defense 4.0, Attack Speed 3.0
+Difficulty Normal, Game 8, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 22.0/40, Attack 3.0, Defense 1.0, Attack Speed 0.8
+Difficulty Normal, Game 8, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 34.0/45, Attack 5.0, Defense 1.0, Attack Speed 1.3
+Difficulty Normal, Game 8, Steps 3, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.0/45, Attack 5.0, Defense 1.0, Attack Speed 1.3
+Difficulty Normal, Game 8, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.0, Defense 6.3, Attack Speed 1.0
+  Monster: HP 39.0/61, Attack 2.0, Defense 1.0, Attack Speed 0.8
+Difficulty Normal, Game 8, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.0, Defense 7.7, Attack Speed 1.0
+  Monster: HP 8.0/32, Attack 3.0, Defense 0.0, Attack Speed 1.5
+Difficulty Normal, Game 8, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 14.4, Defense 7.7, Attack Speed 1.0
+  Monster: HP 22.2/47, Attack 3.0, Defense 2.0, Attack Speed 1.3
+Difficulty Normal, Game 8, Steps 8, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 14.4, Defense 7.7, Attack Speed 1.0
+  Monster: HP 9.8/47, Attack 3.0, Defense 2.0, Attack Speed 1.3
+Difficulty Normal, Game 8, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 17.3, Defense 7.7, Attack Speed 1.0
+  Monster: HP 49.4/82, Attack 6.0, Defense 1.0, Attack Speed 1.5
+Difficulty Normal, Game 8, Steps 9, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 17.3, Defense 7.7, Attack Speed 1.0
+  Monster: HP 33.1/82, Attack 6.0, Defense 1.0, Attack Speed 1.5
+Difficulty Normal, Game 8, Steps 9, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 17.3, Defense 7.7, Attack Speed 1.0
+  Monster: HP 33.1/82, Attack 6.0, Defense 1.0, Attack Speed 1.5
+Difficulty Normal, Game 8, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 20.9, Defense 7.7, Attack Speed 1.0
+  Monster: HP 83.0/83, Attack 7.0, Defense 2.0, Attack Speed 2.3
+Difficulty Normal, Game 8, Steps 10, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 20.9, Defense 7.7, Attack Speed 1.0
+  Monster: HP 64.1/83, Attack 7.0, Defense 2.0, Attack Speed 2.3
+Difficulty Normal, Game 8, Steps 10, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 20.9, Defense 7.7, Attack Speed 1.0
+  Monster: HP 7.4/83, Attack 7.0, Defense 2.0, Attack Speed 2.3
+Difficulty Normal, Game 8, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 93.4/100, Attack 20.9, Defense 9.8, Attack Speed 1.0
+  Monster: HP 48.2/78, Attack 12.0, Defense 6.0, Attack Speed 2.5
+Difficulty Normal, Game 8, Steps 17, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 86.8/100, Attack 20.9, Defense 9.8, Attack Speed 1.0
+  Monster: HP 18.4/78, Attack 12.0, Defense 6.0, Attack Speed 2.5
+Difficulty Normal, Game 8, Steps 17, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 78.0/100, Attack 20.9, Defense 9.8, Attack Speed 1.0
+  Monster: HP 3.5/78, Attack 12.0, Defense 6.0, Attack Speed 2.5
+Difficulty Normal, Game 8, Steps 17, Turn 20, Win Rate: 1.000, Choice: r
+  Player: HP 69.2/100, Attack 20.9, Defense 9.8, Attack Speed 1.0
+  Monster: HP 3.5/78, Attack 12.0, Defense 6.0, Attack Speed 2.5
+Difficulty Normal, Game 9, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 20.0/29, Attack 2.0, Defense 1.0, Attack Speed 1.1
+Difficulty Hard, Game 1, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 91.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 65.0/81, Attack 8.0, Defense 2.0, Attack Speed 0.8
+Difficulty Hard, Game 1, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 76.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 65.0/81, Attack 8.0, Defense 2.0, Attack Speed 0.8
+Difficulty Hard, Game 1, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 70.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 41.0/81, Attack 8.0, Defense 2.0, Attack Speed 0.8
+Difficulty Hard, Game 1, Steps 2, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 64.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 17.0/81, Attack 8.0, Defense 2.0, Attack Speed 0.8
+Difficulty Hard, Game 1, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 144.0/144, Attack 13.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 19.0/30, Attack 4.0, Defense 2.0, Attack Speed 1.1
+Difficulty Hard, Game 1, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 178.0/178, Attack 13.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 52.0/64, Attack 3.0, Defense 1.0, Attack Speed 2.3
+Difficulty Hard, Game 1, Steps 6, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 178.0/178, Attack 13.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 28.0/64, Attack 3.0, Defense 1.0, Attack Speed 2.3
+Difficulty Hard, Game 1, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 169.0/178, Attack 15.6, Defense 5.0, Attack Speed 1.5
+  Monster: HP 63.8/89, Attack 8.0, Defense 3.0, Attack Speed 2.9
+Difficulty Hard, Game 1, Steps 13, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 154.0/178, Attack 15.6, Defense 5.0, Attack Speed 1.5
+  Monster: HP 63.8/89, Attack 8.0, Defense 3.0, Attack Speed 2.9
+Difficulty Hard, Game 1, Steps 13, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 139.0/178, Attack 15.6, Defense 5.0, Attack Speed 1.5
+  Monster: HP 63.8/89, Attack 8.0, Defense 3.0, Attack Speed 2.9
+Difficulty Hard, Game 1, Steps 13, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 133.0/178, Attack 15.6, Defense 5.0, Attack Speed 1.5
+  Monster: HP 26.0/89, Attack 8.0, Defense 3.0, Attack Speed 2.9
+Difficulty Hard, Game 1, Steps 15, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 127.0/178, Attack 15.6, Defense 6.2, Attack Speed 1.5
+  Monster: HP 13.2/54, Attack 4.0, Defense 2.0, Attack Speed 2.1
+Difficulty Hard, Game 1, Steps 21, Turn 5, Win Rate: 0.000, Choice: c
+  Player: HP 141.0/230, Attack 15.6, Defense 6.2, Attack Speed 1.5
+  Monster: HP 224.0/224, Attack 24.0, Defense 8.0, Attack Speed 3.4
+Difficulty Hard, Game 1, Steps 21, Turn 10, Win Rate: 0.000, Choice: c
+  Player: HP 87.6/230, Attack 15.6, Defense 6.2, Attack Speed 1.5
+  Monster: HP 208.8/224, Attack 24.0, Defense 8.0, Attack Speed 3.4
+Difficulty Hard, Game 1, Steps 21, Turn 15, Win Rate: 0.000, Choice: c
+  Player: HP 16.4/230, Attack 15.6, Defense 6.2, Attack Speed 1.5
+  Monster: HP 201.2/224, Attack 24.0, Defense 8.0, Attack Speed 3.4
+Difficulty Hard, Game 2, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 43.0/67, Attack 5.0, Defense 2.0, Attack Speed 1.9
+Difficulty Hard, Game 2, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 19.0/67, Attack 5.0, Defense 2.0, Attack Speed 1.9
+Difficulty Hard, Game 2, Steps 5, Turn 5, Win Rate: 0.999, Choice: c
+  Player: HP 88.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 49.0/59, Attack 8.0, Defense 2.0, Attack Speed 2.1
+Difficulty Hard, Game 2, Steps 5, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 79.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 29.0/59, Attack 8.0, Defense 2.0, Attack Speed 2.1
+Difficulty Hard, Game 2, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 118.6/120.0, Attack 12.0, Defense 6.3, Attack Speed 1.2
+  Monster: HP 51.0/84, Attack 7.0, Defense 1.0, Attack Speed 1.7
+Difficulty Hard, Game 2, Steps 10, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 117.2/120.0, Attack 12.0, Defense 6.3, Attack Speed 1.2
+  Monster: HP 18.0/84, Attack 7.0, Defense 1.0, Attack Speed 1.7
+Difficulty Hard, Game 2, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 140.0/140, Attack 17.0, Defense 7.9, Attack Speed 1.2
+  Monster: HP 83.0/111, Attack 7.0, Defense 3.0, Attack Speed 2.9
+Difficulty Hard, Game 2, Steps 13, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 140.0/140, Attack 17.0, Defense 7.9, Attack Speed 1.2
+  Monster: HP 83.0/111, Attack 7.0, Defense 3.0, Attack Speed 2.9
+Difficulty Hard, Game 2, Steps 13, Turn 15, Win Rate: 1.000, Choice: r
+  Player: HP 140.0/140, Attack 17.0, Defense 7.9, Attack Speed 1.2
+  Monster: HP 83.0/111, Attack 7.0, Defense 3.0, Attack Speed 2.9
+Difficulty Hard, Game 2, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 137.8/140, Attack 17.0, Defense 7.9, Attack Speed 1.2
+  Monster: HP 71.0/113, Attack 9.0, Defense 3.0, Attack Speed 1.6
+Difficulty Hard, Game 2, Steps 13, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 134.5/140, Attack 17.0, Defense 7.9, Attack Speed 1.2
+  Monster: HP 43.0/113, Attack 9.0, Defense 3.0, Attack Speed 1.6
+Difficulty Hard, Game 2, Steps 13, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 131.2/140, Attack 17.0, Defense 7.9, Attack Speed 1.2
+  Monster: HP 15.0/113, Attack 9.0, Defense 3.0, Attack Speed 1.6
+Difficulty Hard, Game 2, Steps 13, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 126.8/140, Attack 17.0, Defense 7.9, Attack Speed 1.2
+  Monster: HP 1.0/113, Attack 9.0, Defense 3.0, Attack Speed 1.6
+Difficulty Hard, Game 2, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 126.8/140, Attack 17.0, Defense 7.9, Attack Speed 1.5
+  Monster: HP 84.0/112, Attack 3.0, Defense 3.0, Attack Speed 2.1
+Difficulty Hard, Game 2, Steps 14, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 126.8/140, Attack 17.0, Defense 7.9, Attack Speed 1.5
+  Monster: HP 56.0/112, Attack 3.0, Defense 3.0, Attack Speed 2.1
+Difficulty Hard, Game 2, Steps 14, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 126.8/140, Attack 17.0, Defense 7.9, Attack Speed 1.5
+  Monster: HP 28.0/112, Attack 3.0, Defense 3.0, Attack Speed 2.1
+Difficulty Hard, Game 2, Steps 15, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 126.8/140, Attack 20.1, Defense 7.9, Attack Speed 1.5
+  Monster: HP 12.7/64, Attack 6.0, Defense 3.0, Attack Speed 2.1
+Difficulty Hard, Game 2, Steps 21, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 126.5/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 101.8/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 126.1/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 87.7/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 125.6/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 87.7/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 125.3/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 59.5/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 124.9/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 45.4/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 124.5/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 31.3/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 35, Win Rate: 1.000, Choice: c
+  Player: HP 124.2/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 17.2/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 40, Win Rate: 1.000, Choice: c
+  Player: HP 123.7/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 17.2/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 45, Win Rate: 1.000, Choice: c
+  Player: HP 123.2/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 17.2/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 50, Win Rate: 1.000, Choice: c
+  Player: HP 122.9/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 17.2/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 55, Win Rate: 1.000, Choice: c
+  Player: HP 122.7/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 17.2/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 2, Steps 21, Turn 60, Win Rate: 1.000, Choice: c
+  Player: HP 122.3/140, Attack 20.1, Defense 7.9, Attack Speed 1.9
+  Monster: HP 3.1/130, Attack 8.0, Defense 6.0, Attack Speed 3.7
+Difficulty Hard, Game 3, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 94.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 22.0/38, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Hard, Game 3, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 14.0/38, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Hard, Game 3, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 76.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 14.0/38, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Hard, Game 3, Steps 0, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 68.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 6.0/38, Attack 7.0, Defense 2.0, Attack Speed 2.0
+Difficulty Hard, Game 3, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 68.0/100, Attack 12.2, Defense 5.0, Attack Speed 1.8
+  Monster: HP 54.4/85, Attack 4.0, Defense 2.0, Attack Speed 2.1
+Difficulty Hard, Game 3, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 68.0/100, Attack 12.2, Defense 5.0, Attack Speed 1.8
+  Monster: HP 34.0/85, Attack 4.0, Defense 2.0, Attack Speed 2.1
+Difficulty Hard, Game 3, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 68.0/100, Attack 12.2, Defense 5.0, Attack Speed 1.8
+  Monster: HP 23.8/85, Attack 4.0, Defense 2.0, Attack Speed 2.1
+Difficulty Hard, Game 3, Steps 2, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 68.0/100, Attack 12.2, Defense 5.0, Attack Speed 1.8
+  Monster: HP 3.4/85, Attack 4.0, Defense 2.0, Attack Speed 2.1
+Difficulty Hard, Game 3, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 68.0/100, Attack 14.5, Defense 5.0, Attack Speed 1.8
+  Monster: HP 16.0/66, Attack 5.0, Defense 2.0, Attack Speed 1.3
+Difficulty Hard, Game 3, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 66.0/100, Attack 14.5, Defense 5.0, Attack Speed 2.2
+  Monster: HP 48.5/86, Attack 6.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 3, Steps 9, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 64.0/100, Attack 14.5, Defense 5.0, Attack Speed 2.2
+  Monster: HP 11.0/86, Attack 6.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 3, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 129.0/129, Attack 20.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 28.0/79, Attack 4.0, Defense 3.0, Attack Speed 1.4
+Difficulty Hard, Game 3, Steps 16, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 146.0/148, Attack 20.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 8.0/80, Attack 7.0, Defense 2.0, Attack Speed 2.7
+Difficulty Hard, Game 3, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 160.0/176, Attack 20.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 53.0/71, Attack 9.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 3, Steps 19, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 207.0/213, Attack 20.0, Defense 5.0, Attack Speed 2.2
+  Monster: HP 25.0/59, Attack 7.0, Defense 3.0, Attack Speed 2.6
+Difficulty Hard, Game 3, Steps 29, Turn 5, Win Rate: 0.600, Choice: c
+  Player: HP 177.0/213, Attack 25.8, Defense 5.0, Attack Speed 2.2
+  Monster: HP 188.6/254, Attack 20.0, Defense 4.0, Attack Speed 2.6
+Difficulty Hard, Game 3, Steps 29, Turn 10, Win Rate: 0.886, Choice: c
+  Player: HP 162.0/213, Attack 25.8, Defense 5.0, Attack Speed 2.2
+  Monster: HP 101.4/254, Attack 20.0, Defense 4.0, Attack Speed 2.6
+Difficulty Hard, Game 3, Steps 29, Turn 15, Win Rate: 0.905, Choice: c
+  Player: HP 117.0/213, Attack 25.8, Defense 5.0, Attack Speed 2.2
+  Monster: HP 57.8/254, Attack 20.0, Defense 4.0, Attack Speed 2.6
+Difficulty Hard, Game 3, Steps 29, Turn 20, Win Rate: 0.750, Choice: c
+  Player: HP 57.0/213, Attack 25.8, Defense 5.0, Attack Speed 2.2
+  Monster: HP 36.0/254, Attack 20.0, Defense 4.0, Attack Speed 2.6
+Difficulty Hard, Game 4, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 94.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 6.0/30, Attack 8.0, Defense 2.0, Attack Speed 1.1
+Difficulty Hard, Game 4, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/126, Attack 15.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 85.0/85, Attack 6.0, Defense 1.0, Attack Speed 1.9
+Difficulty Hard, Game 4, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 118.0/126, Attack 15.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 57.0/85, Attack 6.0, Defense 1.0, Attack Speed 1.9
+Difficulty Hard, Game 4, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 116.0/126, Attack 15.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 15.0/85, Attack 6.0, Defense 1.0, Attack Speed 1.9
+Difficulty Hard, Game 4, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 154.0/162, Attack 15.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 34.0/48, Attack 7.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 4, Steps 6, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 144.0/162, Attack 15.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 34.0/48, Attack 7.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 4, Steps 6, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 136.0/162, Attack 15.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 20.0/48, Attack 7.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 4, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 200.0/200, Attack 15.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 18.0/46, Attack 5.0, Defense 1.0, Attack Speed 0.8
+Difficulty Hard, Game 4, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 311.0/326, Attack 24.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 92.0/92, Attack 8.0, Defense 2.0, Attack Speed 2.3
+Difficulty Hard, Game 4, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 305.0/326, Attack 24.0, Defense 5.0, Attack Speed 1.5
+  Monster: HP 26.0/92, Attack 8.0, Defense 2.0, Attack Speed 2.3
+Difficulty Hard, Game 4, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 298.0/326, Attack 30.9, Defense 5.0, Attack Speed 1.5
+  Monster: HP 25.3/112, Attack 7.0, Defense 2.0, Attack Speed 2.8
+Difficulty Hard, Game 4, Steps 23, Turn 5, Win Rate: 0.997, Choice: c
+  Player: HP 262.2/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 242.4/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 10, Win Rate: 0.997, Choice: c
+  Player: HP 237.0/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 200.8/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 218.1/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 117.6/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 20, Win Rate: 0.998, Choice: c
+  Player: HP 186.6/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 117.6/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 167.7/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 34.4/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 142.5/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 34.4/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 35, Win Rate: 0.998, Choice: c
+  Player: HP 111.0/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 34.4/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 40, Win Rate: 0.996, Choice: c
+  Player: HP 98.4/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 34.4/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 45, Win Rate: 0.976, Choice: c
+  Player: HP 66.9/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 34.4/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 4, Steps 23, Turn 50, Win Rate: 0.907, Choice: c
+  Player: HP 41.7/326, Attack 47.6, Defense 5.7, Attack Speed 1.5
+  Monster: HP 34.4/284, Attack 12.0, Defense 6.0, Attack Speed 3.8
+Difficulty Hard, Game 5, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 111.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 48.0/66, Attack 8.0, Defense 1.0, Attack Speed 1.8
+Difficulty Hard, Game 5, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 102.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 30.0/66, Attack 8.0, Defense 1.0, Attack Speed 1.8
+Difficulty Hard, Game 5, Steps 2, Turn 15, Win Rate: 0.999, Choice: c
+  Player: HP 87.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 30.0/66, Attack 8.0, Defense 1.0, Attack Speed 1.8
+Difficulty Hard, Game 5, Steps 2, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 78.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 12.0/66, Attack 8.0, Defense 1.0, Attack Speed 1.8
+Difficulty Hard, Game 5, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 69.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 5.0/32, Attack 4.0, Defense 1.0, Attack Speed 1.4
+Difficulty Hard, Game 5, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 144.0/144, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 24.0/40, Attack 4.0, Defense 2.0, Attack Speed 1.5
+Difficulty Hard, Game 5, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 136.0/144, Attack 17.0, Defense 5.0, Attack Speed 2.8
+  Monster: HP 27.0/75, Attack 9.0, Defense 1.0, Attack Speed 1.9
+Difficulty Hard, Game 5, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/144, Attack 21.4, Defense 5.0, Attack Speed 2.8
+  Monster: HP 49.2/90, Attack 10.0, Defense 1.0, Attack Speed 2.3
+Difficulty Hard, Game 5, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 102.2/144, Attack 21.4, Defense 6.4, Attack Speed 2.8
+  Monster: HP 33.2/72, Attack 8.0, Defense 2.0, Attack Speed 2.6
+Difficulty Hard, Game 5, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 183.0/183, Attack 21.4, Defense 8.2, Attack Speed 5.6
+  Monster: HP 34.4/108, Attack 4.0, Defense 3.0, Attack Speed 1.4
+Difficulty Hard, Game 5, Steps 23, Turn 5, Win Rate: 0.827, Choice: c
+  Player: HP 162.6/183, Attack 21.4, Defense 9.8, Attack Speed 5.6
+  Monster: HP 131.8/172, Attack 20.0, Defense 8.0, Attack Speed 6.2
+Difficulty Hard, Game 5, Steps 23, Turn 10, Win Rate: 0.813, Choice: c
+  Player: HP 132.0/183, Attack 21.4, Defense 9.8, Attack Speed 5.6
+  Monster: HP 105.0/172, Attack 20.0, Defense 8.0, Attack Speed 6.2
+Difficulty Hard, Game 5, Steps 23, Turn 15, Win Rate: 0.913, Choice: c
+  Player: HP 111.6/183, Attack 21.4, Defense 9.8, Attack Speed 5.6
+  Monster: HP 64.8/172, Attack 20.0, Defense 8.0, Attack Speed 6.2
+Difficulty Hard, Game 5, Steps 23, Turn 20, Win Rate: 0.984, Choice: c
+  Player: HP 91.2/183, Attack 21.4, Defense 9.8, Attack Speed 5.6
+  Monster: HP 24.6/172, Attack 20.0, Defense 8.0, Attack Speed 6.2
+Difficulty Hard, Game 5, Steps 23, Turn 25, Win Rate: 0.865, Choice: c
+  Player: HP 50.4/183, Attack 21.4, Defense 9.8, Attack Speed 5.6
+  Monster: HP 24.6/172, Attack 20.0, Defense 8.0, Attack Speed 6.2
+Difficulty Hard, Game 5, Steps 23, Turn 30, Win Rate: 0.648, Choice: c
+  Player: HP 30.0/183, Attack 21.4, Defense 9.8, Attack Speed 5.6
+  Monster: HP 24.6/172, Attack 20.0, Defense 8.0, Attack Speed 6.2
+Difficulty Hard, Game 6, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 16.0/34, Attack 4.0, Defense 1.0, Attack Speed 1.7
+Difficulty Hard, Game 6, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 24.0/60, Attack 5.0, Defense 1.0, Attack Speed 1.4
+Difficulty Hard, Game 6, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 6.0/60, Attack 5.0, Defense 1.0, Attack Speed 1.4
+Difficulty Hard, Game 6, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 186.9/192, Attack 13.8, Defense 6.3, Attack Speed 2.0
+  Monster: HP 34.4/60, Attack 8.0, Defense 1.0, Attack Speed 1.4
+Difficulty Hard, Game 6, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 183.5/192, Attack 13.8, Defense 6.3, Attack Speed 2.6
+  Monster: HP 22.8/70, Attack 8.0, Defense 2.0, Attack Speed 1.7
+Difficulty Hard, Game 6, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 169.0/192, Attack 13.8, Defense 8.1, Attack Speed 2.6
+  Monster: HP 45.0/45, Attack 11.0, Defense 3.0, Attack Speed 1.7
+Difficulty Hard, Game 6, Steps 11, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 163.2/192, Attack 13.8, Defense 8.1, Attack Speed 2.6
+  Monster: HP 12.6/45, Attack 11.0, Defense 3.0, Attack Speed 1.7
+Difficulty Hard, Game 6, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 160.3/192, Attack 13.8, Defense 9.6, Attack Speed 2.6
+  Monster: HP 55.2/66, Attack 8.0, Defense 3.0, Attack Speed 2.8
+Difficulty Hard, Game 6, Steps 13, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 160.3/192, Attack 13.8, Defense 9.6, Attack Speed 2.6
+  Monster: HP 22.8/66, Attack 8.0, Defense 3.0, Attack Speed 2.8
+Difficulty Hard, Game 6, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 160.3/192, Attack 16.1, Defense 9.6, Attack Speed 2.6
+  Monster: HP 35.7/75, Attack 9.0, Defense 3.0, Attack Speed 1.6
+Difficulty Hard, Game 6, Steps 19, Turn 5, Win Rate: 0.489, Choice: c
+  Player: HP 209.2/246, Attack 16.1, Defense 9.6, Attack Speed 2.6
+  Monster: HP 111.7/148, Attack 28.0, Defense 4.0, Attack Speed 3.1
+Difficulty Hard, Game 6, Steps 19, Turn 10, Win Rate: 0.438, Choice: c
+  Player: HP 154.0/246, Attack 16.1, Defense 9.6, Attack Speed 2.6
+  Monster: HP 87.5/148, Attack 28.0, Defense 4.0, Attack Speed 3.1
+Difficulty Hard, Game 6, Steps 19, Turn 15, Win Rate: 0.368, Choice: c
+  Player: HP 98.8/246, Attack 16.1, Defense 9.6, Attack Speed 2.6
+  Monster: HP 63.3/148, Attack 28.0, Defense 4.0, Attack Speed 3.1
+Difficulty Hard, Game 6, Steps 19, Turn 20, Win Rate: 0.256, Choice: c
+  Player: HP 43.6/246, Attack 16.1, Defense 9.6, Attack Speed 2.6
+  Monster: HP 39.1/148, Attack 28.0, Defense 4.0, Attack Speed 3.1
+Difficulty Hard, Game 7, Steps 1, Turn 5, Win Rate: 0.998, Choice: c
+  Player: HP 91.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 56.0/74, Attack 8.0, Defense 1.0, Attack Speed 1.5
+Difficulty Hard, Game 7, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 88.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 20.0/74, Attack 8.0, Defense 1.0, Attack Speed 1.5
+Difficulty Hard, Game 7, Steps 1, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 76.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 11.0/74, Attack 8.0, Defense 1.0, Attack Speed 1.5
+Difficulty Hard, Game 7, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 143.0/147, Attack 11.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 50.0/77, Attack 7.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 7, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 137.0/147, Attack 11.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 32.0/77, Attack 7.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 7, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 131.0/147, Attack 11.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 14.0/77, Attack 7.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 7, Steps 7, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 172.4/176.4, Attack 14.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 57.0/90, Attack 7.0, Defense 3.0, Attack Speed 1.5
+Difficulty Hard, Game 7, Steps 7, Turn 10, Win Rate: 1.000, Choice: r
+  Player: HP 162.4/176.4, Attack 14.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 57.0/90, Attack 7.0, Defense 3.0, Attack Speed 1.5
+Difficulty Hard, Game 7, Steps 7, Turn 5, Win Rate: 0.990, Choice: c
+  Player: HP 140.4/176.4, Attack 14.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 93.0/105, Attack 10.0, Defense 2.0, Attack Speed 2.9
+Difficulty Hard, Game 7, Steps 7, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 135.4/176.4, Attack 14.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 45.0/105, Attack 10.0, Defense 2.0, Attack Speed 2.9
+Difficulty Hard, Game 7, Steps 7, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 120.4/176.4, Attack 14.0, Defense 5.0, Attack Speed 1.8
+  Monster: HP 21.0/105, Attack 10.0, Defense 2.0, Attack Speed 2.9
+Difficulty Hard, Game 7, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 106.4/176.4, Attack 16.8, Defense 5.0, Attack Speed 1.8
+  Monster: HP 33.2/47, Attack 6.0, Defense 3.0, Attack Speed 2.7
+Difficulty Hard, Game 7, Steps 9, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 103.4/176.4, Attack 16.8, Defense 5.0, Attack Speed 1.8
+  Monster: HP 5.6/47, Attack 6.0, Defense 3.0, Attack Speed 2.7
+Difficulty Hard, Game 7, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 98.4/176.4, Attack 19.3, Defense 5.0, Attack Speed 1.8
+  Monster: HP 3.8/69, Attack 10.0, Defense 3.0, Attack Speed 1.3
+Difficulty Hard, Game 7, Steps 19, Turn 5, Win Rate: 0.020, Choice: c
+  Player: HP 25.4/176.4, Attack 39.0, Defense 5.0, Attack Speed 2.3
+  Monster: HP 135.0/172, Attack 22.0, Defense 2.0, Attack Speed 6.4
+Difficulty Hard, Game 8, Steps 1, Turn 5, Win Rate: 0.980, Choice: c
+  Player: HP 88.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 55.0/64, Attack 8.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 8, Steps 1, Turn 10, Win Rate: 0.974, Choice: c
+  Player: HP 76.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 46.0/64, Attack 8.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 8, Steps 1, Turn 15, Win Rate: 0.914, Choice: r
+  Player: HP 61.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 46.0/64, Attack 8.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 8, Steps 1, Turn 5, Win Rate: 0.996, Choice: c
+  Player: HP 52.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 14.0/41, Attack 8.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 8, Steps 1, Turn 10, Win Rate: 0.997, Choice: c
+  Player: HP 40.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 5.0/41, Attack 8.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 8, Steps 1, Turn 15, Win Rate: 0.975, Choice: c
+  Player: HP 25.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 5.0/41, Attack 8.0, Defense 1.0, Attack Speed 2.0
+Difficulty Hard, Game 1, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 94.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 56.0/74, Attack 7.0, Defense 1.0, Attack Speed 1.4
+Difficulty Hard, Game 1, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 20.0/74, Attack 7.0, Defense 1.0, Attack Speed 1.4
+Difficulty Hard, Game 1, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/100, Attack 12.4, Defense 5.0, Attack Speed 1.0
+  Monster: HP 18.8/50, Attack 3.0, Defense 2.0, Attack Speed 1.9
+Difficulty Hard, Game 1, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 92.0/100, Attack 12.4, Defense 6.3, Attack Speed 1.0
+  Monster: HP 34.0/34, Attack 3.0, Defense 1.0, Attack Speed 1.8
+Difficulty Hard, Game 1, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 147.9/156, Attack 13.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 26.0/50, Attack 9.0, Defense 1.0, Attack Speed 2.3
+Difficulty Hard, Game 1, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 147.9/156, Attack 13.0, Defense 6.3, Attack Speed 3.2
+  Monster: HP 30.0/74, Attack 5.0, Defense 2.0, Attack Speed 2.5
+Difficulty Hard, Game 1, Steps 13, Turn 5, Win Rate: 0.841, Choice: c
+  Player: HP 136.8/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 218.2/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 10, Win Rate: 0.861, Choice: c
+  Player: HP 125.7/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 192.4/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 15, Win Rate: 0.882, Choice: c
+  Player: HP 114.6/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 166.6/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 20, Win Rate: 0.830, Choice: c
+  Player: HP 99.8/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 153.7/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 25, Win Rate: 0.757, Choice: c
+  Player: HP 85.0/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 140.8/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 30, Win Rate: 0.887, Choice: c
+  Player: HP 77.6/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 102.1/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 35, Win Rate: 0.826, Choice: c
+  Player: HP 62.8/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 89.2/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 40, Win Rate: 0.951, Choice: c
+  Player: HP 55.4/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 50.5/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 45, Win Rate: 0.944, Choice: c
+  Player: HP 44.3/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 37.6/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 50, Win Rate: 0.921, Choice: c
+  Player: HP 40.6/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 37.6/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 1, Steps 13, Turn 55, Win Rate: 0.986, Choice: c
+  Player: HP 33.2/156, Attack 16.9, Defense 6.3, Attack Speed 3.2
+  Monster: HP 11.8/244, Attack 10.0, Defense 4.0, Attack Speed 5.3
+Difficulty Hard, Game 2, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 83.0/83, Attack 4.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 2, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 75.0/83, Attack 4.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 2, Steps 1, Turn 15, Win Rate: 1.000, Choice: r
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 75.0/83, Attack 4.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 2, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 135.0/135, Attack 12.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 23.0/43, Attack 4.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 2, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 135.0/135, Attack 12.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 13.0/43, Attack 4.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 2, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 135.0/135, Attack 12.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 3.0/43, Attack 4.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 2, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 123.0/135, Attack 14.1, Defense 5.0, Attack Speed 1.0
+  Monster: HP 49.9/63, Attack 8.0, Defense 1.0, Attack Speed 0.9
+Difficulty Hard, Game 2, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/135, Attack 20.1, Defense 5.0, Attack Speed 1.0
+  Monster: HP 67.8/102, Attack 5.0, Defense 3.0, Attack Speed 2.6
+Difficulty Hard, Game 2, Steps 8, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/135, Attack 20.1, Defense 5.0, Attack Speed 1.0
+  Monster: HP 33.6/102, Attack 5.0, Defense 3.0, Attack Speed 2.6
+Difficulty Hard, Game 2, Steps 8, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/135, Attack 20.1, Defense 5.0, Attack Speed 1.0
+  Monster: HP 33.6/102, Attack 5.0, Defense 3.0, Attack Speed 2.6
+Difficulty Hard, Game 2, Steps 8, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/135, Attack 20.1, Defense 5.0, Attack Speed 1.0
+  Monster: HP 16.5/102, Attack 5.0, Defense 3.0, Attack Speed 2.6
+Difficulty Hard, Game 2, Steps 8, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/135, Attack 20.1, Defense 5.0, Attack Speed 1.0
+  Monster: HP 16.5/102, Attack 5.0, Defense 3.0, Attack Speed 2.6
+Difficulty Hard, Game 2, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 236.0/248, Attack 27.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 26.0/74, Attack 9.0, Defense 3.0, Attack Speed 1.1
+Difficulty Hard, Game 2, Steps 15, Turn 5, Win Rate: 0.000, Choice: r
+  Player: HP 157.5/248, Attack 27.0, Defense 6.3, Attack Speed 1.1
+  Monster: HP 276.0/276, Attack 22.0, Defense 2.0, Attack Speed 5.4
+Difficulty Hard, Game 3, Steps 2, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 127.0/142, Attack 11.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 86.0/86, Attack 8.0, Defense 2.0, Attack Speed 1.4
+Difficulty Hard, Game 3, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/142, Attack 11.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 18.0/48, Attack 7.0, Defense 1.0, Attack Speed 2.2
+Difficulty Hard, Game 3, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 112.0/142, Attack 11.0, Defense 5.0, Attack Speed 1.1
+  Monster: HP 8.0/48, Attack 7.0, Defense 1.0, Attack Speed 2.2
+Difficulty Hard, Game 3, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 101.0/142, Attack 11.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 31.0/49, Attack 8.0, Defense 2.0, Attack Speed 1.1
+Difficulty Hard, Game 3, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 98.0/142, Attack 13.4, Defense 5.0, Attack Speed 1.4
+  Monster: HP 52.2/75, Attack 5.0, Defense 2.0, Attack Speed 0.9
+Difficulty Hard, Game 3, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 98.0/142, Attack 13.4, Defense 5.0, Attack Speed 1.4
+  Monster: HP 18.0/75, Attack 5.0, Defense 2.0, Attack Speed 0.9
+Difficulty Hard, Game 3, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 98.0/142, Attack 22.0, Defense 6.4, Attack Speed 1.8
+  Monster: HP 21.0/105, Attack 4.0, Defense 1.0, Attack Speed 2.4
+Difficulty Hard, Game 3, Steps 19, Turn 5, Win Rate: 0.043, Choice: c
+  Player: HP 30.0/142, Attack 48.3, Defense 6.4, Attack Speed 2.1
+  Monster: HP 158.0/158, Attack 20.0, Defense 6.0, Attack Speed 6.0
+Difficulty Hard, Game 4, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 98.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 7.0/34, Attack 6.0, Defense 1.0, Attack Speed 1.1
+Difficulty Hard, Game 4, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 65.0/85, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Hard, Game 4, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 45.0/85, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Hard, Game 4, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 45.0/85, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Hard, Game 4, Steps 2, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 35.0/85, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Hard, Game 4, Steps 2, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 97.0/100, Attack 12.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 25.0/85, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Hard, Game 4, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 149.0/161, Attack 23.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 22.0/44, Attack 8.0, Defense 1.0, Attack Speed 1.1
+Difficulty Hard, Game 4, Steps 13, Turn 5, Win Rate: 0.942, Choice: c
+  Player: HP 118.0/161, Attack 37.0, Defense 6.5, Attack Speed 2.1
+  Monster: HP 251.0/282, Attack 12.0, Defense 6.0, Attack Speed 2.9
+Difficulty Hard, Game 4, Steps 13, Turn 10, Win Rate: 0.995, Choice: c
+  Player: HP 112.5/161, Attack 37.0, Defense 6.5, Attack Speed 2.1
+  Monster: HP 127.0/282, Attack 12.0, Defense 6.0, Attack Speed 2.9
+Difficulty Hard, Game 4, Steps 13, Turn 15, Win Rate: 0.998, Choice: c
+  Player: HP 96.0/161, Attack 37.0, Defense 6.5, Attack Speed 2.1
+  Monster: HP 65.0/282, Attack 12.0, Defense 6.0, Attack Speed 2.9
+Difficulty Hard, Game 4, Steps 13, Turn 20, Win Rate: 0.999, Choice: c
+  Player: HP 90.5/161, Attack 37.0, Defense 6.5, Attack Speed 2.1
+  Monster: HP 34.0/282, Attack 12.0, Defense 6.0, Attack Speed 2.9
+Difficulty Hard, Game 4, Steps 13, Turn 25, Win Rate: 0.998, Choice: c
+  Player: HP 79.5/161, Attack 37.0, Defense 6.5, Attack Speed 2.1
+  Monster: HP 34.0/282, Attack 12.0, Defense 6.0, Attack Speed 2.9
+Difficulty Hard, Game 5, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 14.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 25.0/49, Attack 5.0, Defense 2.0, Attack Speed 0.9
+Difficulty Hard, Game 5, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 14.0, Defense 6.3, Attack Speed 1.2
+  Monster: HP 35.0/87, Attack 6.0, Defense 1.0, Attack Speed 0.9
+Difficulty Hard, Game 5, Steps 8, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 119.3/120.0, Attack 17.5, Defense 6.3, Attack Speed 1.4
+  Monster: HP 52.5/68, Attack 3.0, Defense 2.0, Attack Speed 1.9
+Difficulty Hard, Game 5, Steps 8, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 119.3/120.0, Attack 17.5, Defense 6.3, Attack Speed 1.4
+  Monster: HP 21.5/68, Attack 3.0, Defense 2.0, Attack Speed 1.9
+Difficulty Hard, Game 5, Steps 8, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 119.3/120.0, Attack 17.5, Defense 6.3, Attack Speed 1.4
+  Monster: HP 6.0/68, Attack 3.0, Defense 2.0, Attack Speed 1.9
+Difficulty Hard, Game 5, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 113.9/120.0, Attack 17.5, Defense 6.3, Attack Speed 1.8
+  Monster: HP 70.5/114, Attack 9.0, Defense 3.0, Attack Speed 1.2
+Difficulty Hard, Game 5, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 108.5/120.0, Attack 17.5, Defense 6.3, Attack Speed 1.8
+  Monster: HP 27.0/114, Attack 9.0, Defense 3.0, Attack Speed 1.2
+Difficulty Hard, Game 5, Steps 12, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 97.7/120.0, Attack 17.5, Defense 6.3, Attack Speed 1.8
+  Monster: HP 12.5/114, Attack 9.0, Defense 3.0, Attack Speed 1.2
+Difficulty Hard, Game 5, Steps 21, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 154.0/154, Attack 31.4, Defense 6.3, Attack Speed 7.0
+  Monster: HP 16.4/126, Attack 24.0, Defense 4.0, Attack Speed 5.1
+Difficulty Hard, Game 5, Steps 21, Turn 10, Win Rate: 0.998, Choice: c
+  Player: HP 118.6/154, Attack 31.4, Defense 6.3, Attack Speed 7.0
+  Monster: HP 16.4/126, Attack 24.0, Defense 4.0, Attack Speed 5.1
+Difficulty Hard, Game 6, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 25.0/49, Attack 7.0, Defense 2.0, Attack Speed 0.8
+Difficulty Hard, Game 6, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 90.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 9.0/49, Attack 7.0, Defense 2.0, Attack Speed 0.8
+Difficulty Hard, Game 6, Steps 0, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 82.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.0/49, Attack 7.0, Defense 2.0, Attack Speed 0.8
+Difficulty Hard, Game 6, Steps 1, Turn 5, Win Rate: 1.000, Choice: r
+  Player: HP 70.0/100, Attack 11.9, Defense 5.0, Attack Speed 1.0
+  Monster: HP 74.1/85, Attack 7.0, Defense 1.0, Attack Speed 1.3
+Difficulty Hard, Game 6, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 17.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 1.0/33, Attack 3.0, Defense 1.0, Attack Speed 2.2
+Difficulty Hard, Game 6, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 21.6, Defense 5.0, Attack Speed 1.3
+  Monster: HP 30.0/30, Attack 5.0, Defense 1.0, Attack Speed 2.3
+Difficulty Hard, Game 6, Steps 17, Turn 5, Win Rate: 0.000, Choice: c
+  Player: HP 105.0/150, Attack 30.0, Defense 5.0, Attack Speed 1.9
+  Monster: HP 228.0/272, Attack 20.0, Defense 8.0, Attack Speed 7.6
+Difficulty Hard, Game 6, Steps 17, Turn 10, Win Rate: 0.000, Choice: c
+  Player: HP 45.0/150, Attack 30.0, Defense 5.0, Attack Speed 1.9
+  Monster: HP 206.0/272, Attack 20.0, Defense 8.0, Attack Speed 7.6
+Difficulty Hard, Game 7, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 96.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 13.0/40, Attack 7.0, Defense 1.0, Attack Speed 1.4
+Difficulty Hard, Game 7, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 86.0/100, Attack 11.7, Defense 5.0, Attack Speed 1.0
+  Monster: HP 35.3/45, Attack 6.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 7, Steps 1, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 83.0/100, Attack 11.7, Defense 5.0, Attack Speed 1.0
+  Monster: HP 15.9/45, Attack 6.0, Defense 2.0, Attack Speed 1.8
+Difficulty Hard, Game 7, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 81.0/100, Attack 11.7, Defense 6.3, Attack Speed 1.0
+  Monster: HP 64.6/84, Attack 6.0, Defense 2.0, Attack Speed 1.2
+Difficulty Hard, Game 7, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 81.0/100, Attack 11.7, Defense 6.3, Attack Speed 1.0
+  Monster: HP 45.2/84, Attack 6.0, Defense 2.0, Attack Speed 1.2
+Difficulty Hard, Game 7, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 81.0/100, Attack 11.7, Defense 6.3, Attack Speed 1.0
+  Monster: HP 16.1/84, Attack 6.0, Defense 2.0, Attack Speed 1.2
+Difficulty Hard, Game 7, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 79.6/100, Attack 17.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 29.0/74, Attack 7.0, Defense 2.0, Attack Speed 1.9
+Difficulty Hard, Game 7, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 78.2/100, Attack 17.0, Defense 6.3, Attack Speed 2.0
+  Monster: HP 24.0/39, Attack 5.0, Defense 2.0, Attack Speed 2.8
+Difficulty Hard, Game 7, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 78.2/100, Attack 17.0, Defense 6.3, Attack Speed 2.0
+  Monster: HP 9.0/39, Attack 5.0, Defense 2.0, Attack Speed 2.8
+Difficulty Hard, Game 7, Steps 21, Turn 5, Win Rate: 0.991, Choice: c
+  Player: HP 105.5/126, Attack 28.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 100.0/152, Attack 12.0, Defense 2.0, Attack Speed 3.8
+Difficulty Hard, Game 7, Steps 21, Turn 10, Win Rate: 0.986, Choice: c
+  Player: HP 82.7/126, Attack 28.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 74.0/152, Attack 12.0, Defense 2.0, Attack Speed 3.8
+Difficulty Hard, Game 7, Steps 21, Turn 15, Win Rate: 0.999, Choice: c
+  Player: HP 71.3/126, Attack 28.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 22.0/152, Attack 12.0, Defense 2.0, Attack Speed 3.8
+Difficulty Hard, Game 7, Steps 21, Turn 20, Win Rate: 0.989, Choice: c
+  Player: HP 48.5/126, Attack 28.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 22.0/152, Attack 12.0, Defense 2.0, Attack Speed 3.8
+Difficulty Hard, Game 7, Steps 21, Turn 25, Win Rate: 0.951, Choice: c
+  Player: HP 31.4/126, Attack 28.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 22.0/152, Attack 12.0, Defense 2.0, Attack Speed 3.8
+Difficulty Hard, Game 7, Steps 21, Turn 30, Win Rate: 0.778, Choice: c
+  Player: HP 14.3/126, Attack 28.0, Defense 6.3, Attack Speed 2.5
+  Monster: HP 22.0/152, Attack 12.0, Defense 2.0, Attack Speed 3.8
+Difficulty Hard, Game 8, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 24.0/51, Attack 5.0, Defense 1.0, Attack Speed 1.9
+Difficulty Hard, Game 8, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 66.0/74, Attack 5.0, Defense 2.0, Attack Speed 1.6
+Difficulty Hard, Game 8, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 50.0/74, Attack 5.0, Defense 2.0, Attack Speed 1.6
+Difficulty Hard, Game 8, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 50.0/74, Attack 5.0, Defense 2.0, Attack Speed 1.6
+Difficulty Hard, Game 8, Steps 2, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 26.0/74, Attack 5.0, Defense 2.0, Attack Speed 1.6
+Difficulty Hard, Game 8, Steps 2, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 18.0/74, Attack 5.0, Defense 2.0, Attack Speed 1.6
+Difficulty Hard, Game 8, Steps 2, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 18.0/74, Attack 5.0, Defense 2.0, Attack Speed 1.6
+Difficulty Hard, Game 8, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 11.9, Defense 5.0, Attack Speed 1.2
+  Monster: HP 9.2/31, Attack 3.0, Defense 1.0, Attack Speed 2.1
+Difficulty Hard, Game 8, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 179.9/185, Attack 21.0, Defense 6.3, Attack Speed 1.7
+  Monster: HP 17.0/57, Attack 8.0, Defense 1.0, Attack Speed 2.2
+Difficulty Hard, Game 8, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 178.2/185, Attack 21.0, Defense 7.9, Attack Speed 1.7
+  Monster: HP 33.0/52, Attack 5.0, Defense 2.0, Attack Speed 2.6
+Difficulty Hard, Game 8, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 178.2/185, Attack 21.0, Defense 7.9, Attack Speed 1.7
+  Monster: HP 33.0/52, Attack 5.0, Defense 2.0, Attack Speed 2.6
+Difficulty Hard, Game 8, Steps 14, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 229.0/229, Attack 31.0, Defense 7.9, Attack Speed 2.4
+  Monster: HP 9.0/96, Attack 7.0, Defense 2.0, Attack Speed 1.4
+Difficulty Hard, Game 8, Steps 21, Turn 5, Win Rate: 0.999, Choice: c
+  Player: HP 204.6/229, Attack 31.0, Defense 7.9, Attack Speed 3.6
+  Monster: HP 139.0/166, Attack 14.0, Defense 4.0, Attack Speed 6.5
+Difficulty Hard, Game 8, Steps 21, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 186.3/229, Attack 31.0, Defense 7.9, Attack Speed 3.6
+  Monster: HP 85.0/166, Attack 14.0, Defense 4.0, Attack Speed 6.5
+Difficulty Hard, Game 8, Steps 21, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 174.1/229, Attack 31.0, Defense 7.9, Attack Speed 3.6
+  Monster: HP 31.0/166, Attack 14.0, Defense 4.0, Attack Speed 6.5
+Difficulty Hard, Game 8, Steps 21, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 155.8/229, Attack 31.0, Defense 7.9, Attack Speed 3.6
+  Monster: HP 31.0/166, Attack 14.0, Defense 4.0, Attack Speed 6.5
+Difficulty Hard, Game 8, Steps 21, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 143.6/229, Attack 31.0, Defense 7.9, Attack Speed 3.6
+  Monster: HP 31.0/166, Attack 14.0, Defense 4.0, Attack Speed 6.5
+Difficulty Hard, Game 8, Steps 21, Turn 30, Win Rate: 0.998, Choice: c
+  Player: HP 113.1/229, Attack 31.0, Defense 7.9, Attack Speed 3.6
+  Monster: HP 31.0/166, Attack 14.0, Defense 4.0, Attack Speed 6.5
+Difficulty Hard, Game 9, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 98.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 13.0/45, Attack 7.0, Defense 2.0, Attack Speed 1.1
+Difficulty Hard, Game 9, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 90.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 35.0/62, Attack 8.0, Defense 1.0, Attack Speed 2.2
+Difficulty Hard, Game 9, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 78.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 26.0/62, Attack 8.0, Defense 1.0, Attack Speed 2.2
+Difficulty Hard, Game 9, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 69.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 8.0/62, Attack 8.0, Defense 1.0, Attack Speed 2.2
+Difficulty Hard, Game 9, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 65.0/100, Attack 11.8, Defense 5.0, Attack Speed 1.3
+  Monster: HP 24.2/34, Attack 6.0, Defense 2.0, Attack Speed 2.1
+Difficulty Normal, Game 1, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 49.0/67, Attack 2.0, Defense 1.0, Attack Speed 0.9
+Difficulty Normal, Game 1, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 13.0/67, Attack 2.0, Defense 1.0, Attack Speed 0.9
+Difficulty Normal, Game 1, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 127.0/127, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 45.0/45, Attack 2.0, Defense 0.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 127.0/127, Attack 10.0, Defense 5.0, Attack Speed 1.2
+  Monster: HP 15.0/45, Attack 2.0, Defense 0.0, Attack Speed 1.7
+Difficulty Normal, Game 1, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 123.0/127, Attack 11.0, Defense 5.0, Attack Speed 2.0
+  Monster: HP 17.0/44, Attack 7.0, Defense 2.0, Attack Speed 1.5
+Difficulty Normal, Game 1, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 115.0/127, Attack 12.6, Defense 5.0, Attack Speed 2.0
+  Monster: HP 48.2/80, Attack 7.0, Defense 2.0, Attack Speed 1.3
+Difficulty Normal, Game 1, Steps 12, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 109.0/127, Attack 12.6, Defense 5.0, Attack Speed 2.0
+  Monster: HP 27.0/80, Attack 7.0, Defense 2.0, Attack Speed 1.3
+Difficulty Normal, Game 1, Steps 13, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 107.0/127, Attack 16.4, Defense 5.0, Attack Speed 2.0
+  Monster: HP 36.2/65, Attack 4.0, Defense 2.0, Attack Speed 1.4
+Difficulty Normal, Game 1, Steps 27, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 137.0/147, Attack 27.0, Defense 5.0, Attack Speed 3.8
+  Monster: HP 81.0/144, Attack 10.0, Defense 6.0, Attack Speed 2.7
+Difficulty Normal, Game 1, Steps 27, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 127.0/147, Attack 27.0, Defense 5.0, Attack Speed 3.8
+  Monster: HP 18.0/144, Attack 10.0, Defense 6.0, Attack Speed 2.7
+Difficulty Normal, Game 1, Steps 27, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 117.0/147, Attack 27.0, Defense 5.0, Attack Speed 3.8
+  Monster: HP 18.0/144, Attack 10.0, Defense 6.0, Attack Speed 2.7
+Difficulty Normal, Game 1, Steps 27, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 107.0/147, Attack 27.0, Defense 5.0, Attack Speed 3.8
+  Monster: HP 18.0/144, Attack 10.0, Defense 6.0, Attack Speed 2.7
+Difficulty Normal, Game 2, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 21.0/57, Attack 5.0, Defense 1.0, Attack Speed 1.2
+Difficulty Normal, Game 2, Steps 0, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 3.0/57, Attack 5.0, Defense 1.0, Attack Speed 1.2
+Difficulty Normal, Game 2, Steps 1, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.6, Defense 5.0, Attack Speed 1.0
+  Monster: HP 19.4/32, Attack 3.0, Defense 0.0, Attack Speed 1.4
+Difficulty Normal, Game 2, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.6, Defense 5.0, Attack Speed 1.3
+  Monster: HP 23.8/45, Attack 4.0, Defense 2.0, Attack Speed 1.1
+Difficulty Normal, Game 2, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.6, Defense 5.0, Attack Speed 1.3
+  Monster: HP 2.6/45, Attack 4.0, Defense 2.0, Attack Speed 1.1
+Difficulty Normal, Game 2, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.6, Defense 5.0, Attack Speed 1.5
+  Monster: HP 29.8/51, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Normal, Game 2, Steps 3, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 12.6, Defense 5.0, Attack Speed 1.5
+  Monster: HP 8.6/51, Attack 4.0, Defense 2.0, Attack Speed 1.7
+Difficulty Normal, Game 2, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 121.0/123, Attack 35.0, Defense 7.1, Attack Speed 2.3
+  Monster: HP 18.0/51, Attack 3.0, Defense 2.0, Attack Speed 1.9
+Difficulty Normal, Game 2, Steps 19, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 115.2/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 58.2/174, Attack 10.0, Defense 4.0, Attack Speed 4.8
+Difficulty Normal, Game 2, Steps 19, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.7/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 58.2/174, Attack 10.0, Defense 4.0, Attack Speed 4.8
+Difficulty Normal, Game 2, Steps 19, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 86.2/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 58.2/174, Attack 10.0, Defense 4.0, Attack Speed 4.8
+Difficulty Normal, Game 2, Steps 19, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 77.5/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 19.6/174, Attack 10.0, Defense 4.0, Attack Speed 4.8
+Difficulty Normal, Game 2, Steps 19, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 68.8/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 19.6/174, Attack 10.0, Defense 4.0, Attack Speed 4.8
+Difficulty Normal, Game 2, Steps 19, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 57.2/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 19.6/174, Attack 10.0, Defense 4.0, Attack Speed 4.8
+Difficulty Normal, Game 2, Steps 19, Turn 35, Win Rate: 0.999, Choice: r
+  Player: HP 48.5/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 19.6/174, Attack 10.0, Defense 4.0, Attack Speed 4.8
+Difficulty Normal, Game 2, Steps 19, Turn 5, Win Rate: 0.985, Choice: c
+  Player: HP 35.8/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 10.2/126, Attack 12.0, Defense 4.0, Attack Speed 3.3
+Difficulty Normal, Game 2, Steps 19, Turn 10, Win Rate: 0.957, Choice: c
+  Player: HP 26.0/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 10.2/126, Attack 12.0, Defense 4.0, Attack Speed 3.3
+Difficulty Normal, Game 2, Steps 19, Turn 15, Win Rate: 0.649, Choice: c
+  Player: HP 6.4/123, Attack 42.6, Defense 7.1, Attack Speed 2.3
+  Monster: HP 10.2/126, Attack 12.0, Defense 4.0, Attack Speed 3.3
+Difficulty Normal, Game 3, Steps 3, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 46.0/66, Attack 3.0, Defense 0.0, Attack Speed 1.2
+Difficulty Normal, Game 3, Steps 3, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 36.0/66, Attack 3.0, Defense 0.0, Attack Speed 1.2
+Difficulty Normal, Game 3, Steps 3, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 6.0/66, Attack 3.0, Defense 0.0, Attack Speed 1.2
+Difficulty Normal, Game 3, Steps 3, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 6.0/66, Attack 3.0, Defense 0.0, Attack Speed 1.2
+Difficulty Normal, Game 3, Steps 4, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 12.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 40.4/63, Attack 2.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 3, Steps 4, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 12.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 29.1/63, Attack 2.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 3, Steps 4, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 12.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 29.1/63, Attack 2.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 3, Steps 4, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 12.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 6.5/63, Attack 2.0, Defense 1.0, Attack Speed 1.7
+Difficulty Normal, Game 3, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 19.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 37.7/56, Attack 4.0, Defense 1.0, Attack Speed 1.9
+Difficulty Normal, Game 3, Steps 10, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 19.3, Defense 5.0, Attack Speed 1.1
+  Monster: HP 28.4/63, Attack 3.0, Defense 2.0, Attack Speed 1.9
+Difficulty Normal, Game 3, Steps 17, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 144.0/144, Attack 59.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 1.0/59, Attack 4.0, Defense 1.0, Attack Speed 2.3
+Difficulty Normal, Game 3, Steps 25, Turn 5, Win Rate: 0.987, Choice: c
+  Player: HP 114.5/144, Attack 91.9, Defense 6.1, Attack Speed 1.4
+  Monster: HP 78.0/78, Attack 12.0, Defense 6.0, Attack Speed 5.6
+Difficulty Normal, Game 4, Steps 0, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 20.0/47, Attack 3.0, Defense 1.0, Attack Speed 1.4
+Difficulty Normal, Game 4, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.9, Attack Speed 1.1
+  Monster: HP 37.0/64, Attack 4.0, Defense 1.0, Attack Speed 1.4
+Difficulty Normal, Game 4, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.9, Attack Speed 1.1
+  Monster: HP 28.0/64, Attack 4.0, Defense 1.0, Attack Speed 1.4
+Difficulty Normal, Game 4, Steps 2, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.9, Attack Speed 1.1
+  Monster: HP 10.0/64, Attack 4.0, Defense 1.0, Attack Speed 1.4
+Difficulty Normal, Game 4, Steps 2, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 100.0/100, Attack 10.0, Defense 5.9, Attack Speed 1.1
+  Monster: HP 1.0/64, Attack 4.0, Defense 1.0, Attack Speed 1.4
+Difficulty Normal, Game 4, Steps 11, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 10.0, Defense 7.6, Attack Speed 2.0
+  Monster: HP 54.0/81, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Normal, Game 4, Steps 11, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 10.0, Defense 7.6, Attack Speed 2.0
+  Monster: HP 36.0/81, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Normal, Game 4, Steps 11, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 10.0, Defense 7.6, Attack Speed 2.0
+  Monster: HP 9.0/81, Attack 7.0, Defense 1.0, Attack Speed 1.6
+Difficulty Normal, Game 4, Steps 15, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 14.0, Defense 9.7, Attack Speed 2.0
+  Monster: HP 29.0/81, Attack 3.0, Defense 1.0, Attack Speed 1.0
+Difficulty Normal, Game 4, Steps 16, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 14.0, Defense 12.3, Attack Speed 2.0
+  Monster: HP 3.0/63, Attack 2.0, Defense 2.0, Attack Speed 1.1
+Difficulty Normal, Game 4, Steps 18, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 14.0, Defense 12.3, Attack Speed 2.5
+  Monster: HP 10.0/34, Attack 3.0, Defense 2.0, Attack Speed 2.1
+Difficulty Normal, Game 4, Steps 23, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 122.0/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 97.8/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 73.6/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 61.5/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 61.5/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 30, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 37.3/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 35, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 13.1/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 40, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 13.1/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 45, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 13.1/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 4, Steps 23, Turn 50, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/141, Attack 18.1, Defense 12.3, Attack Speed 2.5
+  Monster: HP 1.0/122, Attack 6.0, Defense 6.0, Attack Speed 4.9
+Difficulty Normal, Game 5, Steps 2, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 19.0/46, Attack 2.0, Defense 1.0, Attack Speed 1.2
+Difficulty Normal, Game 5, Steps 2, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 10.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.0/46, Attack 2.0, Defense 1.0, Attack Speed 1.2
+Difficulty Normal, Game 5, Steps 5, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 11.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 52.7/63, Attack 4.0, Defense 1.0, Attack Speed 1.3
+Difficulty Normal, Game 5, Steps 5, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 11.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 21.8/63, Attack 4.0, Defense 1.0, Attack Speed 1.3
+Difficulty Normal, Game 5, Steps 5, Turn 15, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 11.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.2/63, Attack 4.0, Defense 1.0, Attack Speed 1.3
+Difficulty Normal, Game 5, Steps 5, Turn 20, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 11.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.2/63, Attack 4.0, Defense 1.0, Attack Speed 1.3
+Difficulty Normal, Game 5, Steps 5, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 11.3, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.2/63, Attack 4.0, Defense 1.0, Attack Speed 1.3
+Difficulty Normal, Game 5, Steps 6, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 120.0/120.0, Attack 13.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 27.0/39, Attack 2.0, Defense 1.0, Attack Speed 0.8
+Difficulty Normal, Game 5, Steps 9, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 148.0/148, Attack 30.0, Defense 5.0, Attack Speed 1.0
+  Monster: HP 1.0/59, Attack 5.0, Defense 1.0, Attack Speed 1.6
+Difficulty Normal, Game 5, Steps 12, Turn 5, Win Rate: 1.000, Choice: c
+  Player: HP 148.0/148, Attack 30.0, Defense 5.0, Attack Speed 1.3
+  Monster: HP 10.0/68, Attack 4.0, Defense 1.0, Attack Speed 0.8
+Difficulty Normal, Game 5, Steps 17, Turn 5, Win Rate: 0.997, Choice: c
+  Player: HP 150.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 168.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 10, Win Rate: 1.000, Choice: c
+  Player: HP 141.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 96.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 15, Win Rate: 0.999, Choice: c
+  Player: HP 126.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 96.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 20, Win Rate: 0.999, Choice: c
+  Player: HP 114.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 60.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 25, Win Rate: 1.000, Choice: c
+  Player: HP 102.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 24.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 30, Win Rate: 0.999, Choice: c
+  Player: HP 87.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 24.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 35, Win Rate: 0.999, Choice: c
+  Player: HP 81.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 24.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 40, Win Rate: 0.997, Choice: c
+  Player: HP 69.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 24.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 45, Win Rate: 0.990, Choice: c
+  Player: HP 54.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 24.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
+Difficulty Normal, Game 5, Steps 17, Turn 50, Win Rate: 0.972, Choice: c
+  Player: HP 42.0/165, Attack 42.0, Defense 5.0, Attack Speed 1.4
+  Monster: HP 24.0/168, Attack 8.0, Defense 6.0, Attack Speed 5.0
