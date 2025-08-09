@@ -1,6 +1,4 @@
-# Roguelike Game Analysis Project
-
-A roguelike game project that analyzes different AI models' performance in a text-based dungeon crawler game.
+# Magic Tower: A Novel Benchmark for Evaluating Large Language Models in Strategic Game Playing
 
 ## Features
 
@@ -83,5 +81,6 @@ python analyze.py
 Feel free to submit issues and enhancement requests!
 
 ## License
+
 
 This project is open source and available under the MIT License. 
